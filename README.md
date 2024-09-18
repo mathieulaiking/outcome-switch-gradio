@@ -17,7 +17,7 @@ models: ['aakorolyova/primary_and_secondary_outcome_extraction','Mathking/all-mp
 
 1. Download dependencies : `pip install -r requirements.txt`
 
-2. Define pretrained models path in config file : you must redefine `config.json` so that it points to the models if you do not have them on disk. YOu also can redefine ner_labe2id depending on the model you use
+2. Define pretrained models path in config file : you must redefine `config.json` so that it points to the models if you do not have them on disk. You also can redefine ner_labe2id depending on the model you use
 ```json
 {
     "ner_path": "aakorolyova/primary_and_secondary_outcome_extraction",
