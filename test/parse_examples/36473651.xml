@@ -1,0 +1,2984 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2024//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_240101.dtd">
+<PubmedArticleSet>
+    <PubmedArticle>
+        <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+            <PMID Version="1">36473651</PMID>
+            <DateCompleted>
+                <Year>2022</Year>
+                <Month>12</Month>
+                <Day>15</Day>
+            </DateCompleted>
+            <DateRevised>
+                <Year>2024</Year>
+                <Month>06</Month>
+                <Day>05</Day>
+            </DateRevised>
+            <Article PubModel="Electronic">
+                <Journal>
+                    <ISSN IssnType="Electronic">1469-493X</ISSN>
+                    <JournalIssue CitedMedium="Internet">
+                        <Volume>12</Volume>
+                        <Issue>12</Issue>
+                        <PubDate>
+                            <Year>2022</Year>
+                            <Month>Dec</Month>
+                            <Day>07</Day>
+                        </PubDate>
+                    </JournalIssue>
+                    <Title>The Cochrane database of systematic reviews</Title>
+                    <ISOAbbreviation>Cochrane Database Syst Rev</ISOAbbreviation>
+                </Journal>
+                <ArticleTitle>Efficacy and safety of COVID-19 vaccines.</ArticleTitle>
+                <Pagination>
+                    <StartPage>CD015477</StartPage>
+                    <MedlinePgn>CD015477</MedlinePgn>
+                </Pagination>
+                <ELocationID EIdType="pii" ValidYN="Y">CD015477</ELocationID>
+                <ELocationID EIdType="doi" ValidYN="Y">10.1002/14651858.CD015477</ELocationID>
+                <Abstract>
+                    <AbstractText Label="BACKGROUND">Different forms of vaccines have been developed
+                        to prevent the SARS-CoV-2 virus and subsequent COVID-19 disease. Several are
+                        in widespread use globally.&#xa0; OBJECTIVES: To assess the efficacy and
+                        safety of COVID-19 vaccines (as a full primary vaccination series or a
+                        booster dose) against SARS-CoV-2.</AbstractText>
+                    <AbstractText Label="SEARCH METHODS">We searched the Cochrane COVID-19 Study
+                        Register and the COVID-19 L&#xb7;OVE platform (last search date 5 November
+                        2021). We also searched the WHO International Clinical Trials Registry
+                        Platform, regulatory agency websites, and Retraction Watch.</AbstractText>
+                    <AbstractText Label="SELECTION CRITERIA">We included randomized controlled
+                        trials (RCTs) comparing COVID-19 vaccines to placebo, no vaccine, other
+                        active vaccines, or other vaccine schedules.</AbstractText>
+                    <AbstractText Label="DATA COLLECTION AND ANALYSIS">We used standard Cochrane
+                        methods. We used GRADE to assess the certainty of evidence for all except
+                        immunogenicity outcomes.&#xa0; We synthesized data for each vaccine
+                        separately and presented summary effect estimates with 95% confidence
+                        intervals (CIs).&#xa0; MAIN RESULTS: We included and analyzed 41 RCTs
+                        assessing 12 different vaccines, including homologous and heterologous
+                        vaccine schedules and the effect of booster doses. Thirty-two RCTs were
+                        multicentre and five were multinational. The sample sizes of RCTs were 60 to
+                        44,325 participants. Participants were aged: 18 years or older in 36 RCTs;
+                        12 years or older in one RCT; 12 to 17 years in two RCTs; and three to 17
+                        years in two RCTs. Twenty-nine RCTs provided results for individuals aged
+                        over 60 years, and three RCTs included immunocompromized patients. No trials
+                        included pregnant women. Sixteen RCTs had two-month follow-up or less, 20
+                        RCTs had two to six months, and five RCTs had greater than six to 12 months
+                        or less. Eighteen reports were based on preplanned interim analyses. Overall
+                        risk of bias was low for all outcomes in eight RCTs, while 33 had concerns
+                        for at least one outcome. We identified 343 registered RCTs with results not
+                        yet available.&#xa0; This abstract reports results for the critical outcomes
+                        of confirmed symptomatic COVID-19, severe and critical COVID-19, and serious
+                        adverse events only for the 10 WHO-approved vaccines. For remaining outcomes
+                        and vaccines, see main text. The evidence for mortality was generally sparse
+                        and of low or very low certainty for all WHO-approved vaccines, except
+                        AD26.COV2.S (Janssen), which probably reduces the risk of all-cause
+                        mortality (risk ratio (RR) 0.25, 95% CI 0.09 to 0.67; 1 RCT, 43,783
+                        participants; high-certainty evidence). Confirmed symptomatic COVID-19
+                        High-certainty evidence found that BNT162b2 (BioNtech/Fosun Pharma/Pfizer),
+                        mRNA-1273 (ModernaTx), ChAdOx1 (Oxford/AstraZeneca), Ad26.COV2.S, BBIBP-CorV
+                        (Sinopharm-Beijing), and BBV152 (Bharat Biotect) reduce the incidence of
+                        symptomatic COVID-19 compared to placebo (vaccine efficacy (VE): BNT162b2:
+                        97.84%, 95% CI 44.25% to 99.92%; 2 RCTs, 44,077 participants; mRNA-1273:
+                        93.20%, 95% CI 91.06% to 94.83%; 2 RCTs, 31,632 participants; ChAdOx1:
+                        70.23%, 95% CI 62.10% to 76.62%; 2 RCTs, 43,390 participants; Ad26.COV2.S:
+                        66.90%, 95% CI 59.10% to 73.40%; 1 RCT, 39,058 participants; BBIBP-CorV:
+                        78.10%, 95% CI 64.80% to 86.30%; 1 RCT, 25,463 participants; BBV152: 77.80%,
+                        95% CI 65.20% to 86.40%; 1 RCT, 16,973 participants). Moderate-certainty
+                        evidence found that NVX-CoV2373 (Novavax) probably reduces the incidence of
+                        symptomatic COVID-19 compared to placebo (VE 82.91%, 95% CI 50.49% to
+                        94.10%; 3 RCTs, 42,175 participants). There is low-certainty evidence for
+                        CoronaVac (Sinovac) for this outcome (VE 69.81%, 95% CI 12.27% to 89.61%; 2
+                        RCTs, 19,852 participants). Severe or critical COVID-19 High-certainty
+                        evidence found that BNT162b2, mRNA-1273, Ad26.COV2.S, and BBV152 result in a
+                        large reduction in incidence of severe or critical disease due to COVID-19
+                        compared to placebo (VE: BNT162b2: 95.70%, 95% CI 73.90% to 99.90%; 1 RCT,
+                        46,077 participants; mRNA-1273: 98.20%, 95% CI 92.80% to 99.60%; 1 RCT,
+                        28,451 participants; AD26.COV2.S: 76.30%, 95% CI 57.90% to 87.50%; 1 RCT,
+                        39,058 participants; BBV152: 93.40%, 95% CI 57.10% to 99.80%; 1 RCT, 16,976
+                        participants). Moderate-certainty evidence found that NVX-CoV2373 probably
+                        reduces the incidence of severe or critical COVID-19 (VE 100.00%, 95% CI
+                        86.99% to 100.00%; 1 RCT, 25,452 participants). Two trials reported high
+                        efficacy of CoronaVac for severe or critical disease with wide CIs, but
+                        these results could not be pooled. Serious adverse events (SAEs) mRNA-1273,
+                        ChAdOx1 (Oxford-AstraZeneca)/SII-ChAdOx1 (Serum Institute of India),
+                        Ad26.COV2.S, and BBV152 probably result in little or no difference in SAEs
+                        compared to placebo (RR: mRNA-1273: 0.92, 95% CI 0.78 to 1.08; 2 RCTs,
+                        34,072 participants; ChAdOx1/SII-ChAdOx1: 0.88, 95% CI 0.72 to 1.07; 7 RCTs,
+                        58,182 participants; Ad26.COV2.S: 0.92, 95% CI 0.69 to 1.22; 1 RCT, 43,783
+                        participants); BBV152: 0.65, 95% CI 0.43 to 0.97; 1 RCT, 25,928
+                        participants). In each of these, the likely absolute difference in effects
+                        was fewer than 5/1000 participants. Evidence for SAEs is uncertain for
+                        BNT162b2, CoronaVac, BBIBP-CorV, and NVX-CoV2373 compared to placebo (RR:
+                        BNT162b2: 1.30, 95% CI 0.55 to 3.07; 2 RCTs, 46,107 participants; CoronaVac:
+                        0.97, 95% CI 0.62 to 1.51; 4 RCTs, 23,139 participants; BBIBP-CorV: 0.76,
+                        95% CI 0.54 to 1.06; 1 RCT, 26,924 participants; NVX-CoV2373: 0.92, 95% CI
+                        0.74 to 1.14; 4 RCTs, 38,802 participants). For the evaluation of
+                        heterologous schedules, booster doses, and efficacy against variants of
+                        concern, see main text of review.</AbstractText>
+                    <AbstractText Label="AUTHORS' CONCLUSIONS">Compared to placebo, most vaccines
+                        reduce, or likely reduce, the proportion of participants with confirmed
+                        symptomatic COVID-19, and for some, there is high-certainty evidence that
+                        they reduce severe or critical disease. There is probably little or no
+                        difference between most vaccines and placebo for serious adverse events.
+                        Over 300 registered RCTs are evaluating the efficacy of COVID-19 vaccines,
+                        and this review is updated regularly on the COVID-NMA platform
+                        (covid-nma.com). Implications for practice Due to the trial exclusions,
+                        these results cannot be generalized to pregnant women, individuals with a
+                        history of SARS-CoV-2 infection, or immunocompromized people. Most trials
+                        had a short follow-up and were conducted before the emergence of variants of
+                        concern. Implications for research Future research should evaluate the
+                        long-term effect of vaccines, compare different vaccines and vaccine
+                        schedules, assess vaccine efficacy and safety in specific populations, and
+                        include outcomes such as preventing long COVID-19. Ongoing evaluation of
+                        vaccine efficacy and effectiveness against emerging variants of concern is
+                        also vital.</AbstractText>
+                    <CopyrightInformation>Copyright &#xa9; 2022 The Authors. Cochrane Database of
+                        Systematic Reviews published by John Wiley &amp; Sons, Ltd. on behalf of The
+                        Cochrane Collaboration.</CopyrightInformation>
+                </Abstract>
+                <AuthorList CompleteYN="Y">
+                    <Author ValidYN="Y">
+                        <LastName>Gra&#xf1;a</LastName>
+                        <ForeName>Carolina</ForeName>
+                        <Initials>C</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Cochrane France, Paris, France.</Affiliation>
+                        </AffiliationInfo>
+                        <AffiliationInfo>
+                            <Affiliation>Centre of Research in Epidemiology and Statistics (CRESS),
+                                INSERM, INRAE, Universit&#xe9; de Paris, Paris, France.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Ghosn</LastName>
+                        <ForeName>Lina</ForeName>
+                        <Initials>L</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Cochrane France, Paris, France.</Affiliation>
+                        </AffiliationInfo>
+                        <AffiliationInfo>
+                            <Affiliation>Centre of Research in Epidemiology and Statistics (CRESS),
+                                INSERM, INRAE, Universit&#xe9; de Paris, Paris, France.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Evrenoglou</LastName>
+                        <ForeName>Theodoros</ForeName>
+                        <Initials>T</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Centre of Research in Epidemiology and Statistics (CRESS),
+                                INSERM, INRAE, Universit&#xe9; de Paris, Paris, France.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Jarde</LastName>
+                        <ForeName>Alexander</ForeName>
+                        <Initials>A</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Cochrane France, Paris, France.</Affiliation>
+                        </AffiliationInfo>
+                        <AffiliationInfo>
+                            <Affiliation>Centre of Research in Epidemiology and Statistics (CRESS),
+                                INSERM, INRAE, Universit&#xe9; de Paris, Paris, France.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Minozzi</LastName>
+                        <ForeName>Silvia</ForeName>
+                        <Initials>S</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Cochrane Review Group on Drugs and Alcohol, Rome, Italy.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Bergman</LastName>
+                        <ForeName>Hanna</ForeName>
+                        <Initials>H</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Cochrane Response, Cochrane, London, UK.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Buckley</LastName>
+                        <ForeName>Brian S</ForeName>
+                        <Initials>BS</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Cochrane Response, Cochrane, London, UK.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Probyn</LastName>
+                        <ForeName>Katrin</ForeName>
+                        <Initials>K</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Cochrane Response, Cochrane, London, UK.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Villanueva</LastName>
+                        <ForeName>Gemma</ForeName>
+                        <Initials>G</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Cochrane Response, Cochrane, London, UK.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Henschke</LastName>
+                        <ForeName>Nicholas</ForeName>
+                        <Initials>N</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Cochrane Response, Cochrane, London, UK.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Bonnet</LastName>
+                        <ForeName>Hillary</ForeName>
+                        <Initials>H</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Cochrane France, Paris, France.</Affiliation>
+                        </AffiliationInfo>
+                        <AffiliationInfo>
+                            <Affiliation>Centre of Research in Epidemiology and Statistics (CRESS),
+                                INSERM, INRAE, Universit&#xe9; de Paris, Paris, France.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Assi</LastName>
+                        <ForeName>Rouba</ForeName>
+                        <Initials>R</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Cochrane France, Paris, France.</Affiliation>
+                        </AffiliationInfo>
+                        <AffiliationInfo>
+                            <Affiliation>Centre of Research in Epidemiology and Statistics (CRESS),
+                                INSERM, INRAE, Universit&#xe9; de Paris, Paris, France.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Menon</LastName>
+                        <ForeName>Sonia</ForeName>
+                        <Initials>S</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Cochrane France, Paris, France.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Marti</LastName>
+                        <ForeName>Melanie</ForeName>
+                        <Initials>M</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Department of Immunization, Vaccines and Biologicals, World
+                                Health Organization, Geneva, Switzerland.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Devane</LastName>
+                        <ForeName>Declan</ForeName>
+                        <Initials>D</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Evidence Synthesis Ireland, Cochrane Ireland and HRB-Trials
+                                Methodology Research Network, National University of Ireland,
+                                Galway, Ireland.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Mallon</LastName>
+                        <ForeName>Patrick</ForeName>
+                        <Initials>P</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>UCD Centre for Experimental Pathogen Host Research and UCD
+                                School of Medicine, University College Dublin, Dublin, Ireland.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Lelievre</LastName>
+                        <ForeName>Jean-Daniel</ForeName>
+                        <Initials>JD</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Department of Clinical Immunology and Infectious Diseases,
+                                Henri Mondor Hospital, Vaccine Research Institute, Universit&#xe9;
+                                Paris Est Cr&#xe9;teil, Paris, France.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Askie</LastName>
+                        <ForeName>Lisa M</ForeName>
+                        <Initials>LM</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Quality Assurance Norms and Standards Department, World
+                                Health Organization, Geneva, Switzerland.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Kredo</LastName>
+                        <ForeName>Tamara</ForeName>
+                        <Initials>T</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Cochrane South Africa, South African Medical Research
+                                Council, Cape Town, South Africa.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Ferrand</LastName>
+                        <ForeName>Gabriel</ForeName>
+                        <Initials>G</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Cochrane France, Paris, France.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Davidson</LastName>
+                        <ForeName>Mauricia</ForeName>
+                        <Initials>M</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Cochrane France, Paris, France.</Affiliation>
+                        </AffiliationInfo>
+                        <AffiliationInfo>
+                            <Affiliation>Centre of Research in Epidemiology and Statistics (CRESS),
+                                INSERM, INRAE, Universit&#xe9; de Paris, Paris, France.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Riveros</LastName>
+                        <ForeName>Carolina</ForeName>
+                        <Initials>C</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Cochrane France, Paris, France.</Affiliation>
+                        </AffiliationInfo>
+                        <AffiliationInfo>
+                            <Affiliation>Centre of Research in Epidemiology and Statistics (CRESS),
+                                INSERM, INRAE, Universit&#xe9; de Paris, Paris, France.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Tovey</LastName>
+                        <ForeName>David</ForeName>
+                        <Initials>D</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Cochrane France, Paris, France.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Meerpohl</LastName>
+                        <ForeName>Joerg J</ForeName>
+                        <Initials>JJ</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Institute for Evidence in Medicine, Medical Center &amp;
+                                Faculty of Medicine, University of Freiburg, Freiburg, Germany.</Affiliation>
+                        </AffiliationInfo>
+                        <AffiliationInfo>
+                            <Affiliation>Cochrane Germany, Cochrane Germany Foundation, Freiburg,
+                                Germany.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Grasselli</LastName>
+                        <ForeName>Giacomo</ForeName>
+                        <Initials>G</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Department of Anesthesia, Intensive Care and Emergency,
+                                Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico,
+                                Department of Pathophysiology and Transplantation, University of
+                                Milan, Milan, Italy.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Rada</LastName>
+                        <ForeName>Gabriel</ForeName>
+                        <Initials>G</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Epistemonikos Foundation, Santiago, Chile.</Affiliation>
+                        </AffiliationInfo>
+                        <AffiliationInfo>
+                            <Affiliation>UC Evidence Center, Cochrane Chile Associated Center,
+                                Pontificia Universidad Cat&#xf3;lica de Chile, Santiago, Chile.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Hr&#xf3;bjartsson</LastName>
+                        <ForeName>Asbj&#xf8;rn</ForeName>
+                        <Initials>A</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Centre for Evidence Based Medicine Odense (CEBMO) and
+                                Cochrane Denmark, University of Southern Denmark, Odense, Denmark.</Affiliation>
+                        </AffiliationInfo>
+                        <AffiliationInfo>
+                            <Affiliation>Open Patient data Explorative Network (OPEN), Odense
+                                University Hospital, Odense, Denmark.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Ravaud</LastName>
+                        <ForeName>Philippe</ForeName>
+                        <Initials>P</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Cochrane France, Paris, France.</Affiliation>
+                        </AffiliationInfo>
+                        <AffiliationInfo>
+                            <Affiliation>Centre of Research in Epidemiology and Statistics (CRESS),
+                                INSERM, INRAE, Universit&#xe9; de Paris, Paris, France.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Chaimani</LastName>
+                        <ForeName>Anna</ForeName>
+                        <Initials>A</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Cochrane France, Paris, France.</Affiliation>
+                        </AffiliationInfo>
+                        <AffiliationInfo>
+                            <Affiliation>Centre of Research in Epidemiology and Statistics (CRESS),
+                                INSERM, INRAE, Universit&#xe9; de Paris, Paris, France.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Boutron</LastName>
+                        <ForeName>Isabelle</ForeName>
+                        <Initials>I</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Cochrane France, Paris, France.</Affiliation>
+                        </AffiliationInfo>
+                        <AffiliationInfo>
+                            <Affiliation>Centre of Research in Epidemiology and Statistics (CRESS),
+                                INSERM, INRAE, Universit&#xe9; de Paris, Paris, France.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                </AuthorList>
+                <Language>eng</Language>
+                <GrantList CompleteYN="Y">
+                    <Grant>
+                        <GrantID>001</GrantID>
+                        <Acronym>WHO_</Acronym>
+                        <Agency>World Health Organization</Agency>
+                        <Country>International</Country>
+                    </Grant>
+                </GrantList>
+                <PublicationTypeList>
+                    <PublicationType UI="D016428">Journal Article</PublicationType>
+                    <PublicationType UI="D016454">Review</PublicationType>
+                    <PublicationType UI="D000078182">Systematic Review</PublicationType>
+                </PublicationTypeList>
+                <ArticleDate DateType="Electronic">
+                    <Year>2022</Year>
+                    <Month>12</Month>
+                    <Day>07</Day>
+                </ArticleDate>
+            </Article>
+            <MedlineJournalInfo>
+                <Country>England</Country>
+                <MedlineTA>Cochrane Database Syst Rev</MedlineTA>
+                <NlmUniqueID>100909747</NlmUniqueID>
+                <ISSNLinking>1361-6137</ISSNLinking>
+            </MedlineJournalInfo>
+            <ChemicalList>
+                <Chemical>
+                    <RegistryNumber>0</RegistryNumber>
+                    <NameOfSubstance UI="C000722216">sinovac COVID-19 vaccine</NameOfSubstance>
+                </Chemical>
+                <Chemical>
+                    <RegistryNumber>0</RegistryNumber>
+                    <NameOfSubstance UI="C000722768">BIBP COVID-19 vaccine</NameOfSubstance>
+                </Chemical>
+                <Chemical>
+                    <RegistryNumber>76JZE5DSN6</RegistryNumber>
+                    <NameOfSubstance UI="C000722386">BBV152 COVID-19 vaccine</NameOfSubstance>
+                </Chemical>
+                <Chemical>
+                    <RegistryNumber>EPK39PL4R4</RegistryNumber>
+                    <NameOfSubstance UI="D000090983">2019-nCoV Vaccine mRNA-1273</NameOfSubstance>
+                </Chemical>
+            </ChemicalList>
+            <CitationSubset>IM</CitationSubset>
+            <MeshHeadingList>
+                <MeshHeading>
+                    <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D000293" MajorTopicYN="N">Adolescent</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D000090983" MajorTopicYN="Y">2019-nCoV Vaccine mRNA-1273</DescriptorName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D000086382" MajorTopicYN="Y">COVID-19</DescriptorName>
+                    <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+                </MeshHeading>
+                <MeshHeading>
+                    <DescriptorName UI="D000086402" MajorTopicYN="N">SARS-CoV-2</DescriptorName>
+                </MeshHeading>
+            </MeshHeadingList>
+            <CoiStatement>Carolina Gra&#xf1;a: none known. Lina Ghosn: none known. Theodoros
+                Evrenoglou: none known. Alexander Jarde: none known. Silvia Minozzi: no relevant
+                interests; Joint Co&#x2010;ordinating Editor and Method editor of the Drugs and
+                Alcohol Group. Hanna Bergman: Cochrane Response &#x2013; consultant; WHO &#x2013;
+                grant/contract (Cochrane Response was commissioned by the WHO to perform review
+                tasks that contribute to this publication).&#xa0;. Brian Buckley: none known.&#xa0;.
+                Katrin Probyn: Cochrane Response &#x2013; consultant; WHO &#x2013; consultant
+                (Cochrane Response was commissioned to perform review tasks that contribute to this
+                publication).&#xa0;. Gemma Villanueva: Cochrane Response &#x2013; employment
+                (Cochrane Response has been commissioned by WHO to perform parts of this systematic
+                review).&#xa0;. Nicholas Henschke: Cochrane Response &#x2013; consultant; WHO
+                &#x2013; consultant (Cochrane Response was commissioned by the WHO to perform review
+                tasks that contributed to this publication).&#xa0;. Hillary Bonnet: none known.
+                Rouba Assi: none known. Sonia Menon: P95 &#x2013; consultant. Melanie Marti: no
+                relevant interests; Medical Officer at WHO. Declan Devane: Health Research Board
+                (HRB) &#x2013; grant/contract; registered nurse and registered midwife but no longer
+                in clinical practice; Editor, Cochrane Pregnancy and Childbirth Group. Patrick
+                Mallon: AstraZeneca &#x2013; Advisory Board; spoken of vaccine effectiveness to
+                media (print, online, and live); works as a consultant in a hospital that provides
+                vaccinations; employed by St Vincent's University Hospital. Jean&#x2010;Daniel
+                Lelievre: no relevant interests; published numerous interviews in the national press
+                on the subject of COVID vaccination; Head of the Department of Infectious Diseases
+                and Clinical Immunology CHU Henri Mondor APHP, Cr&#xe9;teil; WHO (IVRI&#x2010;AC):
+                expert Vaccelarate (European project on COVID19 Vaccine): head of WP; involved with
+                COVICOMPARE P et M Studies (APHP, INSERM) (public fundings).&#xa0;. Lisa Askie: no
+                relevant interests; Co&#x2010;convenor, Cochrane Prospective Meta&#x2010;analysis
+                Methods Group. Tamara Kredo: no relevant interests; Medical Officer in an Infectious
+                Diseases Clinic at Tygerberg Hospital, Stellenbosch University. Gabriel Ferrand:
+                none known. Mauricia Davidson: none known. Carolina Riveros: no relevant interests;
+                works as an epidemiologist. David Tovey: no relevant interests; Emeritus Editor in
+                Chief, Feedback Editors for 2 Cochrane review groups. Joerg J Meerpohl: no relevant
+                interests; member of the German Standing Vaccination Committee (STIKO). Giacomo
+                Grasselli: Pfizer &#x2013; speaking engagement. Gabriel Rada: none known.
+                Asbj&#xf8;rn Hr&#xf3;bjartsson: no relevant interests; Cochrane Methodology Review
+                Group Editor. Philippe Ravaud: no relevant interests; involved with Mariette
+                CORIMUNO&#x2010;19 Collaborative 2021, the Ministry of Health, Programme Hospitalier
+                de Recherche Clinique, Foundation for Medical Research, and AP&#x2010;HP Foundation.
+                Anna Chaimani: none known. Isabelle Boutron: no relevant interests; member of
+                Cochrane Editorial Board.</CoiStatement>
+        </MedlineCitation>
+        <PubmedData>
+            <History>
+                <PubMedPubDate PubStatus="entrez">
+                    <Year>2022</Year>
+                    <Month>12</Month>
+                    <Day>6</Day>
+                    <Hour>19</Hour>
+                    <Minute>26</Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="pubmed">
+                    <Year>2022</Year>
+                    <Month>12</Month>
+                    <Day>7</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="medline">
+                    <Year>2022</Year>
+                    <Month>12</Month>
+                    <Day>15</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="pmc-release">
+                    <Year>2022</Year>
+                    <Month>12</Month>
+                    <Day>7</Day>
+                </PubMedPubDate>
+            </History>
+            <PublicationStatus>epublish</PublicationStatus>
+            <ArticleIdList>
+                <ArticleId IdType="pubmed">36473651</ArticleId>
+                <ArticleId IdType="pmc">PMC9726273</ArticleId>
+                <ArticleId IdType="doi">10.1002/14651858.CD015477</ArticleId>
+            </ArticleIdList>
+            <ReferenceList>
+                <Title>References to studies included in this review</Title>
+                <ReferenceList>
+                    <Title>Ali 2021 {published data only}</Title>
+                    <Reference>
+                        <Citation>Ali K, Berman G, Zhou H, Deng W, Faughnan V, Coronado-Voges M, et
+                            al. Evaluation of mRNA-1273 SARS-CoV-2 vaccine in adolescents. New
+                            England Journal of Medicine 2021;385(24):2241-51.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8385554</ArticleId>
+                            <ArticleId IdType="pubmed">34379915</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Al Kaabi 2021 {published data only}</Title>
+                    <Reference>
+                        <Citation>Al Kaabi N, Zhang Y, Xia S, Yang Y, Al Qahtani MM, Abdulrazzaq N,
+                            et al. Effect of 2 inactivated SARS-CoV-2 vaccines on symptomatic
+                            COVID-19 infection in adults: a randomized clinical trial. JAMA
+                            2021;326(1):35-45.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8156175</ArticleId>
+                            <ArticleId IdType="pubmed">34037666</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Asano 2022 {published data only}</Title>
+                    <Reference>
+                        <Citation>Asano M, Okada H, Itoh Y, Hirata H, Ishikawa K, Yoshida E, et al.
+                            Immunogenicity and safety of AZD1222 (ChAdOx1 nCoV-19) against
+                            SARS-CoV-2 in Japan: a double-blind, randomized controlled phase 1/2
+                            trial. International Journal of Infectious Diseases 2022;114:165-74.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8531242</ArticleId>
+                            <ArticleId IdType="pubmed">34688944</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Bonelli 2021 {published data only}</Title>
+                    <Reference>
+                        <Citation>Bonelli M, Mrak D, Tobudic S, Sieghart D, Koblischke M, Mandl P,
+                            et al. Additional heterologous versus homologous booster vaccination in
+                            immunosuppressed patients without SARS-CoV-2 antibody seroconversion
+                            after primary mRNA vaccination: a randomized controlled trial. medRxiv
+                            2021 [Preprint]. [DOI: 10.1101/2021.09.05.21263125]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.1101/2021.09.05.21263125</ArticleId>
+                            <ArticleId IdType="pubmed">35027397</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Bueno 2021 {published data only}</Title>
+                    <Reference>
+                        <Citation>Bueno SM, Abarca K, Gonz&#xe1;lez PA, G&#xe1;lvez NM, Soto JA,
+                            Duarte LF, et al. Interim report: safety and immunogenicity of an
+                            inactivated vaccine against SARS-CoV-2 in healthy Chilean adults in a
+                            phase 3 clinical trial. medRxiv 2021 [Preprint]. [DOI:
+                            10.1101/2021.03.31.21254494]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.1101/2021.03.31.21254494</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                    <Reference>
+                        <Citation>Bueno SM, Abarca K, Gonz&#xe1;lez PA, G&#xe1;lvez NM, Soto JA,
+                            Duarte LF, et al. Safety and immunogenicity of an inactivated SARS-CoV-2
+                            vaccine in a subgroup of healthy adults in Chile. Clinical Infectious
+                            Diseases 2021 Sep 19 [Epub ahead of print]. [DOI: 10.1093/cid/ciab823]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.1093/cid/ciab823</ArticleId>
+                            <ArticleId IdType="pmc">PMC9402626</ArticleId>
+                            <ArticleId IdType="pubmed">34537835</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Clemens 2021 {published data only}</Title>
+                    <Reference>
+                        <Citation>Clemens SA, Folegatti PM, Emary KR, Weckx LY, Ratcliff J, Bibi S,
+                            et al. Efficacy of ChAdOx1 nCoV-19 (AZD1222) vaccine against SARS-CoV-2
+                            lineages circulating in Brazil. Nature Communications 2021;12(1):5861.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8494913</ArticleId>
+                            <ArticleId IdType="pubmed">34615860</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Dunkle 2021 {published data only}</Title>
+                    <Reference>
+                        <Citation>Dunkle LM, Kotloff KL, Gay CL, &#xc1;&#xf1;ez G, Adelglass JM,
+                            Barrat Hern&#xe1;ndez AQ, et al. Efficacy and safety of NVX-CoV2373 in
+                            adults in the United States and Mexico. medRxiv 2021 [Preprint]. [DOI:
+                            10.1101/2021.10.05.21264567]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.1101/2021.10.05.21264567</ArticleId>
+                            <ArticleId IdType="pmc">PMC8693692</ArticleId>
+                            <ArticleId IdType="pubmed">34910859</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Ella 2021a {published data only}</Title>
+                    <Reference>
+                        <Citation>Ella R, Vadrevu KM, Jogdand H, Prasad S, Reddy S, Sarangi V, et
+                            al. A Phase 1: safety and immunogenicity trial of an inactivated
+                            SARS-CoV-2 vaccine-BBV152. medRxiv 2020 [Preprint]. [DOI:
+                            10.1101/2020.12.11.20210419]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.1101/2020.12.11.20210419</ArticleId>
+                            <ArticleId IdType="pmc">PMC7825810</ArticleId>
+                            <ArticleId IdType="pubmed">33485468</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                    <Reference>
+                        <Citation>Ella R, Vadrevu KM, Jogdand H, Prasad S, Reddy S, Sarangi V, et
+                            al. Safety and immunogenicity of an inactivated SARS-CoV-2 vaccine,
+                            BBV152: a double-blind, randomized, phase 1 trial. Lancet Infectious
+                            Diseases 2021;21(5):637-46.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC7825810</ArticleId>
+                            <ArticleId IdType="pubmed">33485468</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Ella 2021b {published data only}</Title>
+                    <Reference>
+                        <Citation>Ella R, Reddy S, Blackwelder W, Potdar V, Yadav P, Sarangi V, et
+                            al. Efficacy, safety, and lot to lot immunogenicity of an inactivated
+                            SARS-CoV-2 vaccine (BBV152): a double-blind, randomized, controlled
+                            phase 3 trial. medRxiv 2021 [Preprint]. [DOI:
+                            10.1101/2021.06.30.21259439]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.1101/2021.06.30.21259439</ArticleId>
+                            <ArticleId IdType="pmc">PMC8584828</ArticleId>
+                            <ArticleId IdType="pubmed">34774196</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>El Sahly 2021 {published data only}</Title>
+                    <Reference>
+                        <Citation>Baden LR, El Sahly HM, Essink B, Kotloff K, Frey S, Novak R, et
+                            al. Efficacy and safety of the mRNA-1273 SARS-CoV-2 vaccine. New England
+                            Journal of Medicine 2021;384(5):403-16.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC7787219</ArticleId>
+                            <ArticleId IdType="pubmed">33378609</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                    <Reference>
+                        <Citation>El Sahly HM, Baden LR, Essink B, Doblecki-Lewis S, Martin JM,
+                            Anderson EJ, et al. Efficacy of the mRNA-1273 SARS-CoV-2 vaccine at
+                            completion of blinded phase. New England Journal of Medicine
+                            2021;385(19):1774-85.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8482810</ArticleId>
+                            <ArticleId IdType="pubmed">34551225</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                    <Reference>
+                        <Citation>Food and Drug Administration. Vaccines and Related Biological
+                            Products Advisory Committee Meeting; December 17, 2020; FDA Briefing
+                            Document: Moderna COVID-19 vaccine. www.fda.gov/media/144434/download
+                            (accessed prior to 1 November 2022).</Citation>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Emary 2021 {published data only}</Title>
+                    <Reference>
+                        <Citation>Emary KR, Golubchik T, Aley PK, Ariani CV, Angus B, Bibi S, et al.
+                            Efficacy of ChAdOx1 nCoV-19 (AZD1222) vaccine against SARS-CoV-2 variant
+                            of concern 202012/01 (B.1.1.7): an exploratory analysis of a randomized
+                            controlled trial. Lancet 2021;397(10282):1351-62.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8009612</ArticleId>
+                            <ArticleId IdType="pubmed">33798499</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Fadlyana 2021 {published data only}</Title>
+                    <Reference>
+                        <Citation>Fadlyana E, Rusmil K, Tarigan R, Rahmadi AR, Prodjosoewojo S,
+                            Sofiatin Y, et al. A phase III, observer-blind, randomized,
+                            placebo-controlled study of the efficacy, safety, and immunogenicity of
+                            SARS-CoV-2 inactivated vaccine in healthy adults aged
+                            18&#x2013;59&#xa0;years: an interim analysis in Indonesia. Vaccine
+                            2021;39(44):6520-8.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8461222</ArticleId>
+                            <ArticleId IdType="pubmed">34620531</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Falsey 2021 {published data only}</Title>
+                    <Reference>
+                        <Citation>Falsey AR, Sobieszczyk ME, Hirsch I, Sproule S, Robb ML, Corey L,
+                            et al. Phase 3 safety and efficacy of AZD1222 (ChAdOx1 nCoV-19) Covid-19
+                            vaccine. New England Journal of Medicine 2021;385(25):2348-60.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8522798</ArticleId>
+                            <ArticleId IdType="pubmed">34587382</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Formica 2021 {published data only}</Title>
+                    <Reference>
+                        <Citation>Formica N, Mallory R, Albert G, Robinson M, Plested JS, Cho I, et
+                            al. Different dose regimens of a SARS-CoV-2 recombinant spike protein
+                            vaccine (NVX-CoV2373) in younger and older adults: a phase 2 randomized
+                            placebo-controlled trial. PLOS Medicine 2021;18(10):e1003769.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8486115</ArticleId>
+                            <ArticleId IdType="pubmed">34597298</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                    <Reference>
+                        <Citation>Formica N, Mallory R, Albert G, Robinson M, Plested JS, Cho I, et
+                            al. Evaluation of a SARS-CoV-2 vaccine NVX-CoV2373 in younger and older
+                            adults. medRxiv 2021 [Preprint]. [DOI: 10.1101/2021.02.26.21252482]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.1101/2021.02.26.21252482</ArticleId>
+                            <ArticleId IdType="pmc">PMC8486115</ArticleId>
+                            <ArticleId IdType="pubmed">34597298</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Frenck 2021 {published data only}</Title>
+                    <Reference>
+                        <Citation>Frenck RW Jr, Klein NP, Kitchin N, Gurtman A, Absalon J, Lockhart
+                            S, et al. Safety, immunogenicity, and efficacy of the BNT162b2 Covid-19
+                            vaccine in adolescents. New England Journal of Medicine
+                            2021;385(3):239-50.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8174030</ArticleId>
+                            <ArticleId IdType="pubmed">34043894</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Guo 2021 {published data only}</Title>
+                    <Reference>
+                        <Citation>Guo W, Duan K, Zhang Y, Yuan Z, Zhang YB, Wang Z, et al. Safety
+                            and immunogenicity of an inactivated SARS-CoV-2 vaccine in healthy
+                            adults aged 18 years or older: a randomized, double-blind,
+                            placebo-controlled, phase 1/2 trial. eClinicalMedicine 2021;38:101010.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8260504</ArticleId>
+                            <ArticleId IdType="pubmed">34250456</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Hall 2021 {published data only}</Title>
+                    <Reference>
+                        <Citation>Hall VG, Ferreira VH, Ku T, Ierullo M, Majchrzak-Kita B, Chaparro
+                            C, et al. Randomized trial of a third dose of mRNA-1273 vaccine in
+                            transplant recipients. New England Journal of Medicine
+                            2021;385(13):1244-6.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8385563</ArticleId>
+                            <ArticleId IdType="pubmed">34379917</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Han 2021 {published data only}</Title>
+                    <Reference>
+                        <Citation>Han B, Song Y, Li C, Yang W, Ma Q, Jiang Z, et al. Safety,
+                            tolerability, and immunogenicity of an inactivated SARS-CoV-2 vaccine
+                            (CoronaVac) in healthy children and adolescents: a double-blind,
+                            randomized, controlled, phase 1/2 clinical trial. Lancet Infectious
+                            Diseases 2021;21(12):1645-53.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8238449</ArticleId>
+                            <ArticleId IdType="pubmed">34197764</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Heath 2021 {published data only}</Title>
+                    <Reference>
+                        <Citation>Heath PT, Galiza EP, Baxter DN, Boffito M, Browne D, Burns F, et
+                            al. Safety and efficacy of NVX-CoV2373 Covid-19 vaccine. New England
+                            Journal of Medicine 2021;385(13):1172-83.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8262625</ArticleId>
+                            <ArticleId IdType="pubmed">34192426</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                    <Reference>
+                        <Citation>Heath PT, Galiza EP, Baxter DN, Boffito M, Browne D, Burns F, et
+                            al&#xa0;. Efficacy of the NVX-CoV2373 Covid-19 vaccine against the B.
+                            1.1.7 variant. medRxiv 2021 [Preprint].</Citation>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Keech 2020 {published data only}</Title>
+                    <Reference>
+                        <Citation>Keech C, Albert G, Cho I, Robertson A, Reed P, Neal S, et al.
+                            Phase 1-2 trial of a SARS-CoV-2 recombinant spike protein nanoparticle
+                            vaccine. New England Journal of Medicine&#xa0; 2020;383:2320-32.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC7494251</ArticleId>
+                            <ArticleId IdType="pubmed">32877576</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Kremsner 2021 {published data only}</Title>
+                    <Reference>
+                        <Citation>Kremsner PG, Ahuad Guerrero RA, Arana-Arri E, Aroca Martinez GJ,
+                            Bonten M, Chandler R, et al. Efficacy and safety of the CVnCoV
+                            SARS-CoV-2 mRNA vaccine candidate: results from Herald, a phase 2b/3,
+                            randomized, observer-blinded, placebo-controlled clinical trial in ten
+                            countries in Europe and Latin America. SSRN 2021 [Preprint]. [DOI:
+                            10.2139/ssrn.3911826]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.2139/ssrn.3911826</ArticleId>
+                            <ArticleId IdType="pmc">PMC8610426</ArticleId>
+                            <ArticleId IdType="pubmed">34826381</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Kulkarni 2021 {published data only}</Title>
+                    <Reference>
+                        <Citation>Kulkarni PS, Padmapriyadarsini C, Vekemans J, Bavdekar A, Gupta M,
+                            Kulkarni P, et al. A phase 2/3, observer-blind, randomized, controlled
+                            study to assess the safety and immunogenicity of SII-ChAdOx1 nCOV-19
+                            (COVID-19 vaccine) in adults in India. eClinicalMedicine 2021;42:101218.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8629682</ArticleId>
+                            <ArticleId IdType="pubmed">34870133</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Li 2021a {published data only}</Title>
+                    <Reference>
+                        <Citation>Li J, Hou L, Guo X, Jin P, Wu S, Zhu J, et al. Heterologous
+                            prime-boost immunization with CoronaVac and Convidecia. medRxiv 2021
+                            [Preprint]. [DOI: 10.1101/2021.09.03.21263062]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.1101/2021.09.03.21263062</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Liu 2021 {published data only}</Title>
+                    <Reference>
+                        <Citation>Liu X, Shaw RH, Stuart AS, Greenland M, Aley PK, Andrews NJ, et
+                            al. Safety and immunogenicity of heterologous versus homologous
+                            prime-boost schedules with an adenoviral vectored and mRNA COVID-19
+                            vaccine (Com-COV): a single-blind, randomized, non-inferiority trial.
+                            Lancet 2021;398(10303):856-69.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8346248</ArticleId>
+                            <ArticleId IdType="pubmed">34370971</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                    <Reference>
+                        <Citation>Liu X, Shaw RH, Stuart AS, Greenland M, Aley PK, Andrews NJ, et
+                            al. Safety and immunogenicity report from the Com-COV Study &#x2013; a
+                            single-blind randomized non-inferiority trial comparing heterologous and
+                            homologous prime-boost schedules with an adenoviral vectored and mRNA
+                            COVID-19 vaccine. SSRN 2021 [Preprint]. [DOI: 10.2139/ssrn.3874014]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.2139/ssrn.3874014</ArticleId>
+                            <ArticleId IdType="pmc">PMC8346248</ArticleId>
+                            <ArticleId IdType="pubmed">34370971</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Logunov 2021 {published data only}</Title>
+                    <Reference>
+                        <Citation>Logunov DY, Dolzhikova IV, Shcheblyakov DV, Tukhvatulin AI,
+                            Zubkova OV, Dzharullaeva AS, et al. Safety and efficacy of an rAd26 and
+                            rAd5 vector-based heterologous prime-boost COVID-19 vaccine: an interim
+                            analysis of a randomized controlled phase 3 trial in Russia. Lancet
+                            2021;397(10275):671-81.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC7852454</ArticleId>
+                            <ArticleId IdType="pubmed">33545094</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Madhi 2021a {published data only}</Title>
+                    <Reference>
+                        <Citation>Madhi SA, Koen AL, Izu A, Fairlie L, Cutland CL, Baillie V, et al.
+                            Safety and immunogenicity of the ChAdOx1 nCoV-19 (AZD1222) vaccine
+                            against SARS-CoV-2 in people living with and without HIV in South
+                            Africa: an interim analysis of a randomized, double-blind,
+                            placebo-controlled, phase 1B/2A trial. Lancet HIV 2021;8(9):e568-80.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8372504</ArticleId>
+                            <ArticleId IdType="pubmed">34416193</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Madhi 2021b {published data only}</Title>
+                    <Reference>
+                        <Citation>Madhi SA, Baillie V, Cutland CL, Voysey M, Koen AL, Fairlie L, et
+                            al. Efficacy of the ChAdOx1 nCoV-19 Covid-19 vaccine against the B.1.351
+                            variant. New England Journal of Medicine 2021;384(20):1885-98.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC7993410</ArticleId>
+                            <ArticleId IdType="pubmed">33725432</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Mok 2021 {published data only}</Title>
+                    <Reference>
+                        <Citation>Mok C, Cheng S, Chen C, Yiu K, Chan TO, Lai KC, et al. A RCT of a
+                            third dose CoronaVac or BNT162b2 vaccine in adults with two doses of
+                            CoronaVac. medRxiv 2021 [Preprint]. [DOI: 10.1101/2021.11.02.21265843]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.1101/2021.11.02.21265843</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Palacios 2020 {published data only}</Title>
+                    <Reference>
+                        <Citation>Palacios R, Pati&#xf1;o EG, Oliveira Piorelli R, Conde MT, Batista
+                            AP, Zeng G, et al. Double-blind, randomized, placebo-controlled phase
+                            III clinical trial to evaluate the efficacy and safety of treating
+                            healthcare professionals with the adsorbed COVID-19 (inactivated)
+                            vaccine manufactured by Sinovac &#x2013; PROFISCOV: a structured summary
+                            of a study protocol for a randomized controlled trial. Trials
+                            2020;21(1):853.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC7558252</ArticleId>
+                            <ArticleId IdType="pubmed">33059771</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Sablerolles 2021 {published data only}</Title>
+                    <Reference>
+                        <Citation>Sablerolles RS, Rietdijk WJ, Goorhuis A, Postma DF, Visser LG,
+                            Geers D, et al. Immunogenicity and reactogenicity of booster
+                            vaccinations after Ad26.COV2.S priming. medRxiv 2021 [Preprint]. [DOI:
+                            10.1101/2021.10.18.21264979]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.1101/2021.10.18.21264979</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Sadoff 2021a {published data only}</Title>
+                    <Reference>
+                        <Citation>Food and Drug Administration. Vaccines and related biological
+                            products Advisory Committee Meeting; February 26, 2021; FDA briefing
+                            document: Janssen Ad26.COV2.S vaccine for the prevention of COVID-19.
+                            www.fda.gov/media/146217/download (accessed prior to 1 November 2022).</Citation>
+                    </Reference>
+                    <Reference>
+                        <Citation>Sadoff J, Le Gars M, Shukarev G, Heerwegh D, Truyers C, Groot AM,
+                            et al. Interim results of a Phase 1-2a trial of Ad26.COV2.S Covid-19
+                            vaccine. New England Journal of Medicine 2021;384(19):1824-35.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC7821985</ArticleId>
+                            <ArticleId IdType="pubmed">33440088</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                    <Reference>
+                        <Citation>Sadoff J, Le Gars M, Shukarev G, Heerwegh D, Truyers C, Groot AM,
+                            et al. Safety and immunogenicity of the Ad26.COV2.S COVID-19 vaccine
+                            candidate: interim results of a phase 1/2a, double-blind, randomized,
+                            placebo-controlled trial. medRxiv 2020 [Preprint]. [DOI:
+                            10.1101/2020.09.23.20199604]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.1101/2020.09.23.20199604</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Sadoff 2021b {published data only}</Title>
+                    <Reference>
+                        <Citation>Sadoff J, Gray G, Vandebosch A, C&#xe1;rdenas V, Shukarev G,
+                            Grinsztejn B, et al. Safety and efficacy of single-dose Ad26.COV2.S
+                            vaccine against Covid-19. New England Journal of Medicine
+                            2021;384(23):2187-201.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8220996</ArticleId>
+                            <ArticleId IdType="pubmed">33882225</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Shinde 2021 {published data only}</Title>
+                    <Reference>
+                        <Citation>Shinde V, Bhikha S, Hoosain Z, Archary M, Bhorat Q, Fairlie L, et
+                            al. Efficacy of NVX-CoV2373 Covid-19 vaccine against the B.1.351
+                            variant. New England Journal of Medicine 2021;384(20):1899-909.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8091623</ArticleId>
+                            <ArticleId IdType="pubmed">33951374</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                    <Reference>
+                        <Citation>Shinde V, Bhikha S, Hoosain Z, Archary M, Bhorat Q, Fairlie L, et
+                            al. Preliminary efficacy of the NVX-CoV2373 Covid-19 vaccine against the
+                            B.1.351 variant. medRxiv 2021 [Preprint]. [DOI:
+                            10.1101/2021.02.25.21252477]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.1101/2021.02.25.21252477</ArticleId>
+                            <ArticleId IdType="pmc">PMC8091623</ArticleId>
+                            <ArticleId IdType="pubmed">33951374</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Tanriover 2021 {published data only}</Title>
+                    <Reference>
+                        <Citation>Tanriover MD, Do&#x11f;anay HL, Akova M, G&#xfc;ner HR, Azap A,
+                            Akhan S, et al. Efficacy and safety of an inactivated whole-virion
+                            SARS-CoV-2 vaccine (CoronaVac): interim results of a double-blind,
+                            randomized, placebo-controlled, phase 3 trial in Turkey. Lancet
+                            2021;398(10296):213-22.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8266301</ArticleId>
+                            <ArticleId IdType="pubmed">34246358</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Thomas 2021 {published data only}</Title>
+                    <Reference>
+                        <Citation>Food and Drug Administration. Vaccines and related biological
+                            products Advisory Committee Meeting; December 10, 2020; FDA briefing
+                            document: Pfizer-BioNTech COVID-19 vaccine.
+                            www.fda.gov/media/144245/download (accessed prior to 1 November 2022).</Citation>
+                    </Reference>
+                    <Reference>
+                        <Citation>Polack FP, Thomas SJ, Kitchin N, Absalon J, Gurtman A, Lockhart S,
+                            et al. Safety and efficacy of the BNT162b2 mRNA Covid-19 vaccine. New
+                            England Journal of Medicine 2020;383(27):2603-15.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC7745181</ArticleId>
+                            <ArticleId IdType="pubmed">33301246</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                    <Reference>
+                        <Citation>Thomas SJ, Moreira ED Jr, Kitchin N, Absalon J, Gurtman A,
+                            Lockhart S, et al. Safety and efficacy of the BNT162b2 mRNA Covid-19
+                            vaccine through 6 months. New England Journal of Medicine
+                            2021;385(19):1761-773.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8461570</ArticleId>
+                            <ArticleId IdType="pubmed">34525277</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                    <Reference>
+                        <Citation>Thomas SJ, Moreira ED Jr, Kitchin N, Absalon J, Gurtman A,
+                            Lockhart S, et al. Six month safety and efficacy of the BNT162b2 mRNA
+                            COVID-19 vaccine. medRxiv 2021 [Preprint]. [DOI:
+                            10.1101/2021.07.28.21261159]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.1101/2021.07.28.21261159</ArticleId>
+                            <ArticleId IdType="pmc">PMC8461570</ArticleId>
+                            <ArticleId IdType="pubmed">34525277</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Toledo&#x2010;Romani 2021 {published data only}</Title>
+                    <Reference>
+                        <Citation>Toledo-Romani ME, Garcia-Carmenate M, Silva-Valenzuela C,
+                            Baldoquin-Rodriguez W, Mart&#xed;nez-P&#xe9;rez M,
+                            Rodr&#xed;guez-Gonz&#xe1;lez M, et al. Safety and efficacy of the two
+                            doses conjugated protein-based SOBERANA-02 COVID-19 vaccine and of a
+                            heterologous three-dose combination with SOBERANA-PLUS: double-blind,
+                            randomized, placebo-controlled phase 3 clinical trial. medRxiv 2021
+                            [Preprint]. [DOI: 10.1101/2021.10.31.21265703]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.1101/2021.10.31.21265703</ArticleId>
+                            <ArticleId IdType="pmc">PMC9803910</ArticleId>
+                            <ArticleId IdType="pubmed">36618081</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Voysey 2021a {published data only}</Title>
+                    <Reference>
+                        <Citation>Folegatti PM, Ewer KJ, Aley PK, Angus B, Becker S,
+                            Belij-Rammerstorfer S, et al. Safety and immunogenicity of the ChAdOx1
+                            nCoV-19 vaccine against SARS-CoV-2: a preliminary report of a phase 1/2,
+                            single-blind, randomized controlled trial. Lancet
+                            2020;396(10249):467-78. [PMID: ]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC7445431</ArticleId>
+                            <ArticleId IdType="pubmed">32702298</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                    <Reference>
+                        <Citation>Voysey M, Clemens SA, Madhi SA, Weckx LY, Folegatti PM, Aley PK,
+                            et al. Safety and efficacy of the ChAdOx1 nCoV-19 vaccine (AZD1222)
+                            against SARS-CoV-2: an interim analysis of four randomized controlled
+                            trials in Brazil, South Africa, and the UK. Lancet
+                            2021;397(10269):99-111. [PMID: ]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC7723445</ArticleId>
+                            <ArticleId IdType="pubmed">33306989</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Walsh 2020 {published data only}</Title>
+                    <Reference>
+                        <Citation>Walsh EE, Frenck R, Falsey AR, Kitchin N, Absalon J, Gurtman A, et
+                            al. RNA-based COVID-19 vaccine BNT162b2 selected for a pivotal efficacy
+                            study. medRxiv 2020 [Preprint]. [DOI: 10.1101/2020.08.17.20176651]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.1101/2020.08.17.20176651</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                    <Reference>
+                        <Citation>Walsh EE, Frenck RW Jr, Falsey AR, Kitchin N, Absalon J, Gurtman
+                            A, et al. Safety and immunogenicity of two RNA-based Covid-19 vaccine
+                            candidates. New England Journal of Medicine 2020;383(25):2439-50.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC7583697</ArticleId>
+                            <ArticleId IdType="pubmed">33053279</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Wu 2021a {published data only}</Title>
+                    <Reference>
+                        <Citation>Wu Z, Hu Y, Xu M, Chen Z, Yang W, Jiang Z, et al. Safety,
+                            tolerability, and immunogenicity of an inactivated SARS-CoV-2 vaccine
+                            (CoronaVac) in healthy adults aged 60 years and older: a randomized,
+                            double-blind, placebo-controlled, phase 1/2 clinical trial. Lancet
+                            Infectious Diseases 2021;21(6):803-12.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC7906628</ArticleId>
+                            <ArticleId IdType="pubmed">33548194</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Xia 2020 {published data only}</Title>
+                    <Reference>
+                        <Citation>Xia S, Duan K, Zhang Y, Zhao D, Zhang H, Xie Z, et al. Effect of
+                            an inactivated vaccine against SARS-CoV-2 on safety and immunogenicity
+                            outcomes: interim analysis of 2 randomized clinical trials. JAMA
+                            2020;324(10):951-60.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC7426884</ArticleId>
+                            <ArticleId IdType="pubmed">32789505</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                    <Reference>
+                        <Citation>Xia S, Zhang Y, Wang Y, Wang H, Yang Y, Gao GF, et al. Safety and
+                            immunogenicity of an inactivated SARS-CoV-2 vaccine, BBIBP-CorV: a
+                            randomized, double-blind, placebo-controlled, phase 1/2 trial. Lancet
+                            Infectious Diseases 2020;21(1):39-51.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC7561304</ArticleId>
+                            <ArticleId IdType="pubmed">33069281</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Xia 2021 {published data only}</Title>
+                    <Reference>
+                        <Citation>Xia S, Zhang Y, Wang Y, Wang H, Yang Y, Gao GF, et al. Safety and
+                            immunogenicity of an inactivated COVID-19 vaccine, BBIBP-CorV, in people
+                            younger than 18 years: a randomized, double-blind, controlled, phase 1/2
+                            trial. Lancet Infectious Diseases 2021;22(2):196-208.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8443232</ArticleId>
+                            <ArticleId IdType="pubmed">34536349</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Zhang 2021 {published data only}</Title>
+                    <Reference>
+                        <Citation>Zhang Y, Zeng G, Pan H, Li C, Hu Y, Chu K, et al. Safety,
+                            tolerability, and immunogenicity of an inactivated SARS-CoV-2 vaccine in
+                            healthy adults aged 18&#x2013;59 years: a randomized, double-blind,
+                            placebo-controlled, phase 1/2 clinical trial. Lancet Infectious Diseases
+                            2021;21(2):181-92.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC7832443</ArticleId>
+                            <ArticleId IdType="pubmed">33217362</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+            </ReferenceList>
+            <ReferenceList>
+                <Title>References to studies excluded from this review</Title>
+                <ReferenceList>
+                    <Title>Baden 2021 {published data only}</Title>
+                    <Reference>
+                        <Citation>Baden LR, El Sahly HM, Essink B, Follmann D, Neuzil KM, August A,
+                            et al. Covid-19 in the phase 3 trial of mRNA-1273 during the
+                            Delta-variant surge. medRxiv 2021 [Preprint]. [DOI:
+                            10.1101/2021.09.17.21263624]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.1101/2021.09.17.21263624</ArticleId>
+                            <ArticleId IdType="pmc">PMC8609569</ArticleId>
+                            <ArticleId IdType="pubmed">34731553</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Barrett 2021 {published data only}</Title>
+                    <Reference>
+                        <Citation>Barrett JR, Belij-Rammerstorfer S, Dold C, Ewer KJ, Folegatti PM,
+                            Gilbride C, et al. Phase 1/2 trial of SARS-CoV-2 vaccine ChAdOx1 nCoV-19
+                            with a booster dose induces multifunctional antibody responses. Nature
+                            Medicine 2021;27(2):279-88.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pubmed">33335322</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Ewer 2021 {published data only}</Title>
+                    <Reference>
+                        <Citation>Ewer KJ, Barrett JR, Belij-Rammerstorfer S, Sharpe H, Makinson R,
+                            Morter R, et al. T cell and antibody responses induced by a single dose
+                            of ChAdOx1 nCoV-19 (AZD1222) vaccine in a phase 1/2 clinical trial.
+                            Nature Medicine 2021;27(2):270-8.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pubmed">33335323</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Flaxman 2021 {published data only}</Title>
+                    <Reference>
+                        <Citation>Flaxman A, Marchevsky NG, Jenkin D, Aboagye J, Aley PK, Angus B,
+                            et al. Reactogenicity and immunogenicity after a late second dose or a
+                            third dose of ChAdOx1 nCoV-19 in the UK: a substudy of two randomized
+                            controlled trials (COV001 and COV002). Lancet 2021;398(10304):981-90.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8409975</ArticleId>
+                            <ArticleId IdType="pubmed">34480858</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Hsieh 2021 {published data only}</Title>
+                    <Reference>
+                        <Citation>Hsieh SM, Liu WD, Huang YS, Lin YJ, Hsieh EF, Lian WC, et al.
+                            Safety and immunogenicity of a recombinant stabilized prefusion
+                            SARS-CoV-2 spike protein vaccine (MVC-COV1901) adjuvanted with CpG 1018
+                            and aluminum hydroxide in healthy adults: a phase 1, dose-escalation
+                            study. eClinicalMedicine 2021;38:100989.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8233066</ArticleId>
+                            <ArticleId IdType="pubmed">34222848</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Irfan 2021 {published data only}</Title>
+                    <Reference>
+                        <Citation>Irfan N, Chagla Z. In South Africa, a 2-dose Oxford/AZ vaccine did
+                            not prevent mild to moderate COVID-19 (cases mainly B.1.351 variant).
+                            Annals of Internal Medicine 2021;174(5):JC50.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pubmed">33939483</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Lazarus 2021 {published data only}</Title>
+                    <Reference>
+                        <Citation>Lazarus R, Baos S, Cappel-Porter H, Carson-Stevens A, Clout M,
+                            Culliford L, et al. The safety and immunogenicity of concomitant
+                            administration of COVID-19 vaccines (ChAdOx1 or BNT162b2) with seasonal
+                            influenza vaccines in adults: a phase IV, multicentre randomized
+                            controlled trial with blinding (ComFluCOV). SSRN 2021 [Preprint]. [DOI:
+                            10.2139/ssrn.3931758]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.2139/ssrn.3931758</ArticleId>
+                            <ArticleId IdType="pmc">PMC8585490</ArticleId>
+                            <ArticleId IdType="pubmed">34774197</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Patamatamkul 2021 {published data only}</Title>
+                    <Reference>
+                        <Citation>Patamatamkul S, Thammawat S, Buranrat B. Induction of robust
+                            neutralizing antibodies against the COVID-19 Delta variant with ChAdOx1
+                            nCoV-19 or BNT162b2 as a booster following a primary vaccination series
+                            with CoronaVac. medRxiv 2021 [Preprint]. [DOI:
+                            10.1101/2021.09.25.21264099]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.1101/2021.09.25.21264099</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Ward 2021a {published data only}</Title>
+                    <Reference>
+                        <Citation>Ward BJ, S&#xe9;guin A, Couillard J, Tr&#xe9;panier S, Landry N.
+                            Phase III: randomized observer-blind trial to evaluate lot-to-lot
+                            consistency of a new plant-derived quadrivalent virus like particle
+                            influenza vaccine in adults 18-49&#xa0;years of age. Vaccine
+                            2021;39(10):1528-33.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pubmed">33581920</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Wu 2021b {published data only}</Title>
+                    <Reference>
+                        <Citation>Wu K, Choi A, Koch M, Ma LZ, Hill A, Nunna N, et al. Preliminary
+                            analysis of safety and immunogenicity of a SARS-CoV-2 variant vaccine
+                            booster. medRxiv 2021 [Preprint]. [DOI: 10.1101/2021.05.05.21256716]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.1101/2021.05.05.21256716</ArticleId>
+                            <ArticleId IdType="pmc">PMC8604720</ArticleId>
+                            <ArticleId IdType="pubmed">34526698</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Zdanowski 2021 {published data only}</Title>
+                    <Reference>
+                        <Citation>Zdanowski W, Wa&#x15b;niewski T. Evaluation of SARS-CoV-2 spike
+                            protein antibody titers in cord blood after COVID-19 vaccination during
+                            pregnancy in Polish healthcare workers: preliminary results. Vaccines
+                            2021;9(6):675.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8234119</ArticleId>
+                            <ArticleId IdType="pubmed">34205434</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+            </ReferenceList>
+            <ReferenceList>
+                <Title>Additional references</Title>
+                <ReferenceList>
+                    <Title>Abbasi 2020</Title>
+                    <Reference>
+                        <Citation>Abbasi J. COVID-19 and mRNA vaccines &#x2013; first large test for
+                            a new approach. JAMA 2020;324(12):1125-7.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pubmed">32880613</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Angkasekwinai 2022</Title>
+                    <Reference>
+                        <Citation>Angkasekwinai N, Sewatanon J, Niyomnaitham S, Phumiamorn S,
+                            Sukapirom K, Sapsutthipas S, et al. Comparison of safety and
+                            immunogenicity of CoronaVac and ChAdOx1 against the SARS-CoV-2
+                            circulating variants of concern (Alpha, Delta, Beta) in Thai healthcare
+                            workers. Vaccine X 2022;10:100153.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8896862</ArticleId>
+                            <ArticleId IdType="pubmed">35282410</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Attaway 2021</Title>
+                    <Reference>
+                        <Citation>Attaway AH, Scheraga RG, Bhimraj A, Biehl M, Hatipo&#x11f;lu U.
+                            Severe Covid-19 pneumonia: pathogenesis and clinical management. BMJ
+                            2021;372:n436.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pubmed">33692022</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Baden 2021</Title>
+                    <Reference>
+                        <Citation>Baden LR, El Sahly HM, Essink B, Kotloff K, Frey S, Novak R, et
+                            al. Efficacy and safety of the mRNA-1273 SARS-CoV-2 vaccine. New England
+                            Journal of Medicine 2021;384(5):403-16.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC7787219</ArticleId>
+                            <ArticleId IdType="pubmed">33378609</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Balduzzi 2019</Title>
+                    <Reference>
+                        <Citation>Balduzzi S, R&#xfc;cker G, Schwarzer G. How to perform a
+                            meta-analysis with R: a practical tutorial. Evidence-Based Mental Health
+                            2019;22:153-60.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC10231495</ArticleId>
+                            <ArticleId IdType="pubmed">31563865</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Borobia 2021</Title>
+                    <Reference>
+                        <Citation>Borobia AM, Carcas AJ, P&#xe9;rez-Olmeda M, Casta&#xf1;o L,
+                            Bertran MJ, Garc&#xed;a-P&#xe9;rez J, et al. Immunogenicity and
+                            reactogenicity of BNT162b2 booster in ChAdOx1-S-primed participants
+                            (CombiVacS): a multicentre, open-label, randomised, controlled, phase 2
+                            trial. Lancet 2021;398(10295):121-30.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8233007</ArticleId>
+                            <ArticleId IdType="pubmed">34181880</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Boutron 2020a</Title>
+                    <Reference>
+                        <Citation>Boutron I, Chaimani A, Meerpohl JJ, Hr&#xf3;bjartsson A, Devane D,
+                            Rada G, et al. The COVID-NMA Project: building an evidence ecosystem for
+                            the COVID-19 pandemic. Annals of Internal Medicine 2020;173(12):1015-7.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC7518109</ArticleId>
+                            <ArticleId IdType="pubmed">32931326</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Boutron 2020b</Title>
+                    <Reference>
+                        <Citation>Boutron I, Chaimani A, Meerpohl JJ, Hr&#xf3;bjartsson A, Devane D,
+                            Rada G, et al. Interventions for preventing and treating COVID-19:
+                            protocol for a living mapping of research and a living systematic
+                            review. Cochrane Database of Systematic Reviews 2020, Issue 11. Art. No:
+                            CD013769. [DOI: 10.1002/14651858.CD013769]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.1002/14651858.CD013769</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Bucci 2021</Title>
+                    <Reference>
+                        <Citation>Bucci EM, Berkhof J, Gillibert A, Gopalakrishna G, Calogero RA,
+                            Bouter LM, et al. Data discrepancies and substandard reporting of
+                            interim data of Sputnik V phase 3 trial. Lancet 2021;397(10288):1881-3.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC9751705</ArticleId>
+                            <ArticleId IdType="pubmed">33991475</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Bueno 2021</Title>
+                    <Reference>
+                        <Citation>Bueno SM, Abarca K, Gonz&#xe1;lez PA, G&#xe1;lvez NM, Soto JA,
+                            Duarte LF, et al. Interim report: safety and immunogenicity of an
+                            inactivated vaccine against SARS-CoV-2 in healthy Chilean adults in a
+                            phase 3 clinical trial. medRxiv 2021 [Preprint].</Citation>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Cabanac 2021</Title>
+                    <Reference>
+                        <Citation>Cabanac G, Oikonomidi T, Boutron I. Day-to-day discovery of
+                            preprint-publication links. Scientometrics 2021;126(6):5285-304.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8053368</ArticleId>
+                            <ArticleId IdType="pubmed">33897069</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Castagneto Gissey 2021</Title>
+                    <Reference>
+                        <Citation>Castagneto Gissey L, Panunzi S, Maltese S, Russo MF, Angelini G,
+                            De Gaetano A, et al. Living systematic meta-analysis of COVID-19
+                            vaccines and dose allocation strategies. SSRN &#xa0;2021 [Preprint].
+                            [DOI: 10.2139/ssrn.3827806]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.2139/ssrn.3827806</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>CDC 2021</Title>
+                    <Reference>
+                        <Citation>Centers for Disease Control and Prevention. Understanding mRNA
+                            COVID-19 vaccines.
+                            www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/mrna.html
+                            (accessed prior to 1 November 2022).</Citation>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Chaimani 2013</Title>
+                    <Reference>
+                        <Citation>Chaimani A, Higgins JP, Mavridis D, Spyridonos P, Salanti G.
+                            Graphical tools for network meta-analysis in STATA. PLOS One&#xa0;
+                            2013;8&#xa0;(10):e76654.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC3789683</ArticleId>
+                            <ArticleId IdType="pubmed">24098547</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Chaimani 2015</Title>
+                    <Reference>
+                        <Citation>Chaimani A, Salanti G. Visualizing assumptions and results in
+                            network meta-analysis: the Network Graphs Package. Stata Journal
+                            2015;15(4):905-50.</Citation>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Chaimani 2022</Title>
+                    <Reference>
+                        <Citation>Chaimani A, Caldwell DM, Li T, Higgins JP, Salanti G. Chapter 11:
+                            Undertaking network meta-analyses. In: Higgins JP, Thomas J, Chandler J,
+                            Cumpston M, Li T, Page MJ, Welch VA, editor(s). Cochrane Handbook for
+                            Systematic Reviews of Interventions Version 6.3 (updated February 2022).
+                            Cochrane, 2022. Available from training.cochrane.org/handbook.</Citation>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Chappell 2021</Title>
+                    <Reference>
+                        <Citation>Chappell KJ, Mordant FL, Li Z, Wijesundara DK, Ellenberg P,
+                            Lackenby JA, et al. Safety and immunogenicity of an MF59-adjuvanted
+                            spike glycoprotein-clamp vaccine for SARS-CoV-2: a randomised,
+                            double-blind, placebo-controlled, phase 1 trial. Lancet Infectious
+                            Diseases 2021;21(10):1383-94.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8055208</ArticleId>
+                            <ArticleId IdType="pubmed">33887208</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Che 2021</Title>
+                    <Reference>
+                        <Citation>Che Y, Liu X, Pu Y, Zhou M, Zhao Z, Jiang R, et al. Randomized,
+                            double-blinded, placebo-controlled Phase 2 trial of an inactivated
+                            severe acute respiratory syndrome coronavirus 2 vaccine in healthy
+                            adults. Clinical Infectious Diseases 2021;73(11):e3949-55.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC7717222</ArticleId>
+                            <ArticleId IdType="pubmed">33165503</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Chu 2021</Title>
+                    <Reference>
+                        <Citation>Chu L, McPhee R, Huang W, Bennett H, Pajon R, Nestorova B, et al.
+                            A preliminary report of a randomized controlled phase 2 trial of the
+                            safety and immunogenicity of mRNA-1273 SARS-CoV-2 vaccine. Vaccine
+                            2021;39(20):2791-9.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC7871769</ArticleId>
+                            <ArticleId IdType="pubmed">33707061</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Dal&#x2010;R&#xe9; 2021a</Title>
+                    <Reference>
+                        <Citation>Dal-R&#xe9; R, Bekker LG, Gluud C, Holm S, Jha V, Poland GA, et
+                            al. Ongoing and future COVID-19 vaccine clinical trials: challenges and
+                            opportunities. Lancet Infectious Diseases 2021;21(11):e342-7.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8131060</ArticleId>
+                            <ArticleId IdType="pubmed">34019801</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Dal&#x2010;R&#xe9; 2021b</Title>
+                    <Reference>
+                        <Citation>Dal-R&#xe9; R, Orenstein W, Caplan AL. Being fair to participants
+                            in placebo-controlled COVID-19 vaccine trials. Nature Medicine
+                            2021;27(6):938.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pubmed">33903751</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>DeZure 2016</Title>
+                    <Reference>
+                        <Citation>DeZure AD, Berkowitz NM, Graham BS, Ledgerwood JE.
+                            Whole-inactivated and virus-like particle vaccine strategies for
+                            chikungunya virus. Journal of Infectious Diseases 2016;214(Suppl
+                            5):S497-9.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC5137244</ArticleId>
+                            <ArticleId IdType="pubmed">27920180</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Dias 2010</Title>
+                    <Reference>
+                        <Citation>Dias S, Welton NJ, Caldwell DM, Ades AE. Checking consistency in
+                            mixed treatment comparison meta-analysis. Statistics in Medicine
+                            2010;29(7-8):932-44.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pubmed">20213715</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Dong 2020</Title>
+                    <Reference>
+                        <Citation>Dong Y, Dai T, Wei Y, Zhang L, Zheng M, Zhou F. A systematic
+                            review of SARS-CoV-2 vaccine candidates. Signal Transduction and
+                            Targeted Therapy 2020;5(1):237.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC7551521</ArticleId>
+                            <ArticleId IdType="pubmed">33051445</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Egger 1997</Title>
+                    <Reference>
+                        <Citation>Egger M, Smith GD, Schneider M, Minder C. Bias in meta-analysis
+                            detected by a simple, graphical test. BMJ 1997;315:629-34.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC2127453</ArticleId>
+                            <ArticleId IdType="pubmed">9310563</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Ella 2020b</Title>
+                    <Reference>
+                        <Citation>Ella R, Reddy S, Jogdand H, Sarangi V, Ganneru B, Prasad S, et al.
+                            Safety and immunogenicity clinical trial of an inactivated SARS-CoV-2
+                            vaccine, BBV152 (a phase 2, double-blind, randomised controlled trial)
+                            and the persistence of immune responses from a phase 1 follow-up report.
+                            medRxiv &#xa0;2020 [Preprint]. [DOI: 10.1101/2020.12.21.20248643]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.1101/2020.12.21.20248643</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Ella 2021a</Title>
+                    <Reference>
+                        <Citation>Ella R, Reddy S, Jogdand H, Sarangi V, Ganneru B, Prasad S, et al.
+                            Safety and immunogenicity of an inactivated SARS-CoV-2 vaccine, BBV152:
+                            interim results from a double-blind, randomized, multicentre, phase 2
+                            trial, and 3-month follow-up of a double-blind, randomized phase 1
+                            trial. Lancet Infectious Diseases 2021;21(7):950-61.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8221739</ArticleId>
+                            <ArticleId IdType="pubmed">33705727</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Enjuanes 2016</Title>
+                    <Reference>
+                        <Citation>Enjuanes L, Zu&#xf1;iga S, Casta&#xf1;o-Rodriguez C,
+                            Gutierrez-Alvarez J, Canton J, Sola I. Molecular basis of coronavirus
+                            virulence and vaccine development. Advances in Virus Research
+                            2016;96:245-86.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC7112271</ArticleId>
+                            <ArticleId IdType="pubmed">27712626</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Epistemonikos</Title>
+                    <Reference>
+                        <Citation>Epistemonikos. Epistemonikos L&#xb7;OVE COVID-19 platform.
+                            Available at
+                            app.iloveevidence.com/loves/5e6fdb9669c00e4ac072701d?utm=ile.</Citation>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>FDA 2020a</Title>
+                    <Reference>
+                        <Citation>Food and Drug Administration. Development and licensure of
+                            vaccines to prevent COVID-19. Guidance for industry; June 2020.
+                            www.fda.gov/media/139638/download (accessed prior to 1 November 2022).</Citation>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>FDA 2020b</Title>
+                    <Reference>
+                        <Citation>Food and Drug Administration. FDA Briefing Document Moderna
+                            COVID-19 Vaccine. Vaccines and Related Biological Products Advisory
+                            Committee Meeting December 17, 2020. www.fda.gov/media/144434/download
+                            (accessed prior to 1 November 2022).</Citation>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>FDA 2020c</Title>
+                    <Reference>
+                        <Citation>Food and Drug Administration. FDA Briefing Document
+                            Pfizer-BioNTech COVID-19 Vaccine. Vaccines and Related Biological
+                            Products Advisory Committee Meeting December 10, 2020.
+                            www.fda.gov/media/144245/download (accessed prior to 1 November 2022).</Citation>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>FDA 2021</Title>
+                    <Reference>
+                        <Citation>Food and Drug Administration. FDA Briefing Document Janssen
+                            Ad26.COV2.S Vaccine for the Prevention of COVID-19. Vaccines and Related
+                            Biological Products Advisory Committee Meeting February 26, 2021.
+                            www.fda.gov/media/146217/download (accessed prior to 1 November 2022).</Citation>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Feikin 2022</Title>
+                    <Reference>
+                        <Citation>Feikin DR, Higdon MM, Abu-Raddad LJ, Andrews N, Araos R, Goldberg
+                            Y, et al. Duration of effectiveness of vaccines against SARS-CoV-2
+                            infection and COVID-19 disease: results of a systematic review and
+                            meta-regression. Lancet 2022;399(10328):924-44.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8863502</ArticleId>
+                            <ArticleId IdType="pubmed">35202601</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Feng 2021</Title>
+                    <Reference>
+                        <Citation>Feng Y, Chen J, Yao T, Chang Y, Li X, Xing R, et al. Safety and
+                            Immunogenicity of Inactivated SARS-CoV-2 vaccine in high-risk
+                            occupational population: a randomized, parallel, controlled clinical
+                            trial. medRxiv 2021 [Preprint]. [DOI: 10.1101/2021.08.06.21261696]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.1101/2021.08.06.21261696</ArticleId>
+                            <ArticleId IdType="pmc">PMC8692079</ArticleId>
+                            <ArticleId IdType="pubmed">34933684</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Folegatti 2020</Title>
+                    <Reference>
+                        <Citation>Folegatti PM, Ewer KJ, Aley PK, Angus B, Becker S,
+                            Belij-Rammerstorfer S, et al. Safety and immunogenicity of the ChAdOx1
+                            nCoV-19 vaccine against SARS-CoV-2: a preliminary report of a phase 1/2,
+                            single-blind, randomised controlled trial. Lancet 2020;396:467-78.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC7445431</ArticleId>
+                            <ArticleId IdType="pubmed">32702298</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Formica 2021</Title>
+                    <Reference>
+                        <Citation>Formica N, Mallory R, Albert G, Robinson M, Plested JS, Cho I, et
+                            al, the 2019nCoV-101 Study Group. Evaluation of a SARS-CoV-2 vaccine
+                            NVX-CoV2373 in younger and older adults. medRxiv 2021 [Preprint]. [DOI:
+                            10.1101/2021.02.26.21252482]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.1101/2021.02.26.21252482</ArticleId>
+                            <ArticleId IdType="pmc">PMC8486115</ArticleId>
+                            <ArticleId IdType="pubmed">34597298</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Fuenmayor 2017</Title>
+                    <Reference>
+                        <Citation>Fuenmayor J, G&#xf2;dia F, Cervera L. Production of virus-like
+                            particles for vaccines. New Biotechnology 2017;39(Pt B):174-80.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC7102714</ArticleId>
+                            <ArticleId IdType="pubmed">28778817</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Gavi 2020</Title>
+                    <Reference>
+                        <Citation>Gavi. What are viral vector-based vaccines and how could they be
+                            used against COVID-19?
+                            www.gavi.org/vaccineswork/what-are-viral-vector-based-vaccines-and-how-could-they-be-used-against-covid-19
+                            (accessed prior to 1 November 2022).</Citation>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Gobeil 2021</Title>
+                    <Reference>
+                        <Citation>Gobeil P, Pillet S, S&#xe9;guin A, Boulay I, Mahmood A, Vinh DC,
+                            et al. Interim report of a Phase 2 randomized trial of a plant-produced
+                            virus-like particle vaccine for Covid-19 in healthy adults aged 18-64
+                            and older adults aged 65 and older. medRxiv &#xa0;2021 [Preprint]. [DOI:
+                            10.1101/2021.05.14.21257248]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.1101/2021.05.14.21257248</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Goepfert 2021</Title>
+                    <Reference>
+                        <Citation>Goepfert PA, Fu B, Chabanon AL, Bonaparte MI, Davis MG, Essink BJ,
+                            et al. Safety and immunogenicity of SARS-CoV-2 recombinant protein
+                            vaccine formulations in healthy adults: interim results of a randomised,
+                            placebo-controlled, phase 1-2, dose-ranging study. Lancet Infectious
+                            Diseases 2021;21(9):1257-70.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8055206</ArticleId>
+                            <ArticleId IdType="pubmed">33887209</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>GRADEpro GDT [Computer program]</Title>
+                    <Reference>
+                        <Citation>GRADEpro GDT. Version accessed 6 December 2021. Hamilton (ON):
+                            McMaster University (developed by Evidence Prime). Available at
+                            gradepro.org.</Citation>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Guyatt 2011</Title>
+                    <Reference>
+                        <Citation>Guyatt GH, Oxman AD, Kunz R, Brozek J, Alonso-Coello P, Rind D, et
+                            al. GRADE guidelines 6. Rating the quality of evidence &#x2013;
+                            imprecision. Journal of Clinical Epidemiology 2011;64(12):1283-93.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pubmed">21839614</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Harder 2021</Title>
+                    <Reference>
+                        <Citation>Harder T, Koch J, Vygen-Bonnet S, Kulper-Schiek W, Pilic A, Reda
+                            S, et al. Efficacy and effectiveness of COVID-19 vaccines against
+                            SARS-CoV-2 infection: interim results of a living systematic review, 1
+                            January to 14 May 2021. Eurosurveillance 2021;26(28):2100563.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8284046</ArticleId>
+                            <ArticleId IdType="pubmed">34269175</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Hayawi 2021</Title>
+                    <Reference>
+                        <Citation>Hayawi K, Shahriar S, Serhani MA, Alashwal H, Masud MM. Vaccine
+                            versus variants (3Vs): are the COVID-19 vaccines effective against the
+                            variants? A systematic review. Vaccines 2021;9(11):1305.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8622454</ArticleId>
+                            <ArticleId IdType="pubmed">34835238</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Heath 2021&#xa0;</Title>
+                    <Reference>
+                        <Citation>Heath PT, Galiza EP, Baxter DN, Boffito M, Browne D, Burns F, et
+                            al. Efficacy of the NVX-CoV2373 Covid-19 vaccine against the B.1.1.7
+                            variant. medRxiv 2021 [Preprint]. [DOI: 10.1101/2021.05.13.21256639]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.1101/2021.05.13.21256639</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Higdon 2021</Title>
+                    <Reference>
+                        <Citation>Higdon MM, Wahl B, Jones CB, Rosen JG, Truelove SA, Baidya A, et
+                            al. A systematic review of COVID-19 vaccine efficacy and effectiveness
+                            against SARS-CoV-2 infection and disease. medRxiv 2021 [Preprint]. [DOI:
+                            10.1101/2021.09.17.21263549]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.1101/2021.09.17.21263549</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Higgins 2021</Title>
+                    <Reference>
+                        <Citation>Higgins JP, Thomas J, Chandler J, Cumpston M, Li T, Page MJ, Welch
+                            VA, editor(s). Cochrane Handbook for Systematic Reviews of Interventions
+                            Version 6.2 (updated February 2021). Cochrane, 2021. Available from
+                            training.cochrane.org/handbook/archive/v6.2.</Citation>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Hobernik 2018</Title>
+                    <Reference>
+                        <Citation>Hobernik D, Bros M. DNA vaccines &#x2013; how far from clinical
+                            use? International Journal of Molecular Sciences 2018;19(11):3605.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC6274812</ArticleId>
+                            <ArticleId IdType="pubmed">30445702</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Hultcrantz 2017</Title>
+                    <Reference>
+                        <Citation>Hultcrantz M, Rind D, Akl EA, Treweek S, Mustafa RA, Iorio A, et
+                            al. The GRADE Working Group clarifies the construct of certainty of
+                            evidence. Journal of Clinical Epidemiology 2017;87:4-13.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC6542664</ArticleId>
+                            <ArticleId IdType="pubmed">28529184</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Kirkham 2018</Title>
+                    <Reference>
+                        <Citation>Kirkham JJ, Altman DG, Chan AW, Gamble C, Dwan KM, Williamson PR.
+                            Outcome reporting bias in trials: a methodological approach for
+                            assessment and adjustment in systematic reviews. BMJ 2018;362:k3802.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC6161807</ArticleId>
+                            <ArticleId IdType="pubmed">30266736</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Korang 2022</Title>
+                    <Reference>
+                        <Citation>Korang SK, Rohden E, Veroniki AA, Ong G, Ngalamika O, Siddiqui F,
+                            et al. Vaccines to prevent COVID-19: a living systematic review with
+                            trial sequential analysis and network meta-analysis of randomized
+                            clinical trials. PLOS One 2022;17(1):e0260733.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8782520</ArticleId>
+                            <ArticleId IdType="pubmed">35061702</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Kow 2022</Title>
+                    <Reference>
+                        <Citation>Kow CS, Ramachandram DS, Hasan SS. The effectiveness of mRNA-1273
+                            vaccine against COVID-19 caused by Delta variant: a systematic review
+                            and meta-analysis. Journal of Medical Virology 2022;94(5):2269-74.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC9015635</ArticleId>
+                            <ArticleId IdType="pubmed">34978339</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Lazarus 2021</Title>
+                    <Reference>
+                        <Citation>Lazarus R, Taucher C, Brown C, &#x10c;orbic I, Danon L, Dubischar
+                            K, et al. Immunogenicity and safety of inactivated whole virion
+                            Coronavirus vaccine with CpG (VLA2001) in healthy adults aged 18 to 55:
+                            a randomised phase 1 /2 clinical trial. medRxiv 2021 [Preprint]. [DOI:
+                            10.1101/2021.08.13.21262021]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.1101/2021.08.13.21262021</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Li 2021b</Title>
+                    <Reference>
+                        <Citation>Li J, Hui A, Zhang X, Yang Y, Tang R, Ye H, et al. Safety and
+                            immunogenicity of the SARS-CoV-2 BNT162b1 mRNA vaccine in younger and
+                            older Chinese adults: a randomized, placebo-controlled, double-blind
+                            phase 1 study. Nature Medicine 2021;27(6):1062-70.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pubmed">33888900</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Li 2021c</Title>
+                    <Reference>
+                        <Citation>Li M, Yang J, Wang L, Wu Q, Wu Z, Zheng W, et al. A booster dose
+                            is immunogenic and will be needed for older adults who have completed
+                            two doses vaccination with CoronaVac: a randomized, double-blind,
+                            placebo-controlled, phase 1/2 clinical trial. medRxiv 2021 [Preprint].
+                            [DOI: 10.1101/2021.08.03.21261544]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.1101/2021.08.03.21261544</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Liu 2021</Title>
+                    <Reference>
+                        <Citation>Liu X, Shaw RH, Stuart AS, Greenland M, Dinesh T,
+                            Provstgaard-Morys S, et al. Safety and immunogenicity report from the
+                            com-COV study &#x2013; a single-blind randomised non-inferiority trial
+                            comparing heterologous and homologous prime-boost schedules with an
+                            adenoviral vectored and mRNA COVID-19 vaccine. SSRN 2021 [Preprint].</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8346248</ArticleId>
+                            <ArticleId IdType="pubmed">34370971</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Low 2021</Title>
+                    <Reference>
+                        <Citation>Low JG, Alwis R, Chen S, Kalimuddin S, Leong YA, Mah TK, et al. A
+                            phase 1/2 randomized, double-blinded, placebo controlled ascending dose
+                            trial to assess the safety, tolerability and immunogenicity of ARCT-021
+                            in healthy adults. medRxiv 2021 [Preprint]. [DOI:
+                            10.1101/2021.07.01.21259831]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.1101/2021.07.01.21259831</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Lv 2021</Title>
+                    <Reference>
+                        <Citation>Lv M, Luo X, Shen Q, Lei R, Liu X, Liu E, et al. Safety,
+                            immunogenicity, and efficacy of COVID-19 vaccines in children and
+                            adolescents: a systematic review. Vaccines 2021;9(10):1102.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8539812</ArticleId>
+                            <ArticleId IdType="pubmed">34696210</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Madhi 2021</Title>
+                    <Reference>
+                        <Citation>Madhi SA, Koen AL, Fairlie L, Cutland CL, Baillie V, Padayachee
+                            SD, et al. ChAdOx1 nCoV-19 (AZD1222) vaccine in people living with and
+                            without HIV. Research Square 2021 [Preprint]. [DOI:
+                            10.21203/rs.3.rs-322470/v1]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.21203/rs.3.rs-322470/v1</ArticleId>
+                            <ArticleId IdType="pmc">PMC8372504</ArticleId>
+                            <ArticleId IdType="pubmed">34416193</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Makris 2021</Title>
+                    <Reference>
+                        <Citation>Makris M, Pavord S, Lester W, Scully M, Hunt B. Vaccine-induced
+                            immune thrombocytopenia and thrombosis (VITT). Research and Practice in
+                            Thrombosis and Haemostasis 2021;5(5):e12529.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8178610</ArticleId>
+                            <ArticleId IdType="pubmed">34136745</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Mammen 2021</Title>
+                    <Reference>
+                        <Citation>Mammen MP Jr, Tebas P, Agnes J, Giffear M, Kraynyak KA, Blackwood
+                            E, et al. Safety and immunogenicity of INO-4800 DNA vaccine against
+                            SARS-CoV-2: a preliminary report of a randomized, blinded,
+                            placebo-controlled, Phase 2 clinical trial in adults at high risk of
+                            viral exposure. medRxiv 2021 [Preprint]. [DOI:
+                            10.1101/2021.05.07.21256652]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.1101/2021.05.07.21256652</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Marshall 2020</Title>
+                    <Reference>
+                        <Citation>Marshall JC, Murthy S, Diaz J, Adhikari NK, Angus DC, Arabi YM, et
+                            al. A minimal common outcome measure set for COVID-19 clinical research.
+                            Lancet Infectious Diseases 2020;20(8):e192-7.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC7292605</ArticleId>
+                            <ArticleId IdType="pubmed">32539990</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Mavridis 2014</Title>
+                    <Reference>
+                        <Citation>Mavridis D, Welton NJ, Sutton A, Salanti G. A selection model for
+                            accounting for publication bias in a full network meta-analysis.
+                            Statistics in Medicine 2014;33(30):5399-412.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pubmed">25316006</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Meng 2021b</Title>
+                    <Reference>
+                        <Citation>Meng FY, Gao F, Jia SY, Wu XH, Li JX, Guo XL, et al. Safety and
+                            immunogenicity of a recombinant COVID-19 vaccine (Sf9 cells) in healthy
+                            population aged 18 years or older: two single-center, randomised,
+                            double-blind, placebo-controlled, phase 1 and phase 2 trials. Signal
+                            Transduction and Targeted Therapy 2021;6(1):271.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8281021</ArticleId>
+                            <ArticleId IdType="pubmed">34267185</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Mortola 2004</Title>
+                    <Reference>
+                        <Citation>Mortola E, Roy P. Efficient assembly and release of SARS
+                            coronavirus-like particles by a heterologous expression system. FEBS
+                            Letters 2004;576(1-2):174-8.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC7126153</ArticleId>
+                            <ArticleId IdType="pubmed">15474033</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Mulligan 2020</Title>
+                    <Reference>
+                        <Citation>Mulligan MJ, Lyke KE, Kitchin N, Absalon J, Gurtman A, Lockhart S,
+                            et al. Phase I/II study of COVID-19 RNA vaccine BNT162b1 in adults.
+                            Nature 2020;586(7830):589-93.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pubmed">32785213</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Nguyen 2021</Title>
+                    <Reference>
+                        <Citation>Nguyen TP, Do Q, Phan LT, Dinh DV, Khong H, Hoang LV, et al.
+                            Safety and immunogenicity of Nanocovax, a SARS-CoV-2 recombinant spike
+                            protein vaccine. medRxiv 2021 [Preprint]. [DOI:
+                            10.1101/2021.07.22.21260942]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.1101/2021.07.22.21260942</ArticleId>
+                            <ArticleId IdType="pmc">PMC9108376</ArticleId>
+                            <ArticleId IdType="pubmed">35602004</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Nikolakopoulou 2020</Title>
+                    <Reference>
+                        <Citation>Nikolakopoulou A, Higgins JP, Papakonstantinou T, Chaimani A, Del
+                            Giovane C, Egger M, et al. CINeMA: an approach for assessing confidence
+                            in the results of a network meta-analysis. PLOS Medicine
+                            2020;17&#xa0;(4):e1003082.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC7122720</ArticleId>
+                            <ArticleId IdType="pubmed">32243458</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Oikonomidi 2020</Title>
+                    <Reference>
+                        <Citation>Oikonomidi T, Boutron I, Pierre O, Cabanac G, Ravaud P, COVID-19
+                            NMA Consortium. Changes in evidence for studies assessing interventions
+                            for COVID-19 reported in preprints: meta-research study. BMC Medicine
+                            2020;18(1):402.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC7745199</ArticleId>
+                            <ArticleId IdType="pubmed">33334338</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Ostrowski 2021</Title>
+                    <Reference>
+                        <Citation>Ostrowski SR, S&#xf8;gaard OS, Tolstrup M, St&#xe6;rke NB,
+                            Lundgren J, &#xd8;stergaard L, et al. Inflammation and platelet
+                            activation after COVID-19 vaccines &#x2013; possible mechanisms behind
+                            vaccine-induced immune thrombocytopenia and thrombosis. Frontiers in
+                            Immunology 2021;12:779453.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8649717</ArticleId>
+                            <ArticleId IdType="pubmed">34887867</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Ouzzani 2016</Title>
+                    <Reference>
+                        <Citation>Ouzzani M, Hammady H, Fedorowicz Z, Elmagarmid A. Rayyanv &#x2013;
+                            a web and mobile app for systematic reviews. Systematic Reviews
+                            2016;5(1):210.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC5139140</ArticleId>
+                            <ArticleId IdType="pubmed">27919275</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Oxford Vaccine Group 2020</Title>
+                    <Reference>
+                        <Citation>Oxford Vaccine Group. Vaccine Knowledge Project: independent
+                            information about vaccines and infectious diseases. vk.ovg.ox.ac.uk/vk
+                            (accessed prior to 1 November 2022).</Citation>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Page 2021</Title>
+                    <Reference>
+                        <Citation>Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC, Mulrow
+                            CD, et al. The PRISMA 2020 statement: an updated guideline for reporting
+                            systematic reviews. BMJ 2021;372:n71.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8005924</ArticleId>
+                            <ArticleId IdType="pubmed">33782057</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Pajon 2021</Title>
+                    <Reference>
+                        <Citation>Pajon R, Paila YD, Girard B, Dixon G, Kacena K, Baden LR, et al.
+                            Initial analysis of viral dynamics and circulating viral variants during
+                            the mRNA-1273 Phase 3 COVE trial. medRxiv 2021 [Preprint]. [DOI:
+                            10.1101/2021.09.28.21264252]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.1101/2021.09.28.21264252</ArticleId>
+                            <ArticleId IdType="pmc">PMC9018421</ArticleId>
+                            <ArticleId IdType="pubmed">35145311</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Pan 2021a</Title>
+                    <Reference>
+                        <Citation>Pan HX, Liu JK, Huang BY, Li GF, Chang XY, Liu YF, et al.
+                            Immunogenicity and safety of a SARS-CoV-2 inactivated vaccine (KCONVAC)
+                            in healthy adults: two randomized, double-blind, and placebo-controlled
+                            Phase 1/2 clinical trials. medRxiv 2021 [Preprint]. [DOI:
+                            10.1101/2021.04.07.21253850]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.1101/2021.04.07.21253850</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Pan 2021b</Title>
+                    <Reference>
+                        <Citation>Pan HX, Wu QH, Zeng G, Yang J, Jiang DY, Deng XW, &#xa0;et al.
+                            Immunogenicity and safety of a third dose, and immune persistence of
+                            CoronaVac vaccine in healthy adults aged 18&#x2013;59 years: interim
+                            results from a double-blind, randomized, placebo-controlled phase 2
+                            clinical trial. medRxiv 2021 [Preprint]. [DOI:
+                            10.1101/2021.07.23.21261026]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.1101/2021.07.23.21261026</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>P&#xe9;rez&#x2010;Rodr&#xed;guez 2021</Title>
+                    <Reference>
+                        <Citation>P&#xe9;rez-Rodr&#xed;guez S, la Caridad
+                            Rodr&#xed;guez-Gonz&#xe1;lez M, Ochoa-Azze R, Climent-Ruiz Y, Alberto
+                            Gonz&#xe1;lez-Delgado C, Paredes-Moreno B, et al. A randomized,
+                            double-blind phase I clinical trial of two recombinant dimeric RBD
+                            COVID-19 vaccine candidates: safety, reactogenicity and immunogenicity.
+                            medRxiv 2021 [Preprint]. [DOI: 10.1101/2021.10.04.21264522]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.1101/2021.10.04.21264522</ArticleId>
+                            <ArticleId IdType="pmc">PMC8823954</ArticleId>
+                            <ArticleId IdType="pubmed">35164986</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Pitisuttithum 2021</Title>
+                    <Reference>
+                        <Citation>Pitisuttithum P, Luvira V, Lawpoolsri S, Muangnoicharoen S,
+                            Kamolratanakul S, Sivakorn C, et al. Safety and immunogenicity of an
+                            inactivated recombinant Newcastle disease virus vaccine expressing
+                            SARS-CoV-2 spike: interim results of a randomised, placebo-controlled,
+                            Phase 1/2 trial. medRxiv 2021 [Preprint]. [DOI:
+                            10.1101/2021.09.17.21263758]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.1101/2021.09.17.21263758</ArticleId>
+                            <ArticleId IdType="pmc">PMC8903824</ArticleId>
+                            <ArticleId IdType="pubmed">35284808</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Polack 2020</Title>
+                    <Reference>
+                        <Citation>Polack FP, Thomas SJ, Kitchin N, Absalon J, Gurtman A, Lockhart S,
+                            et al. Safety and efficacy of the BNT162b2 mRNA Covid-19 vaccine. New
+                            England Journal of Medicine 2020;383(27):2603-15.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC7745181</ArticleId>
+                            <ArticleId IdType="pubmed">33301246</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Pollard 2021</Title>
+                    <Reference>
+                        <Citation>Pollard AJ, Bijker EM. A guide to vaccinology: from basic
+                            principles to new developments. Nature Reviews Immunology
+                            2021;21(2):83-100.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC7754704</ArticleId>
+                            <ArticleId IdType="pubmed">33353987</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Pu 2021</Title>
+                    <Reference>
+                        <Citation>Pu J, Yu Q, Yin Z, Zhang Y, Li X, Yin Q, et al. The safety and
+                            immunogenicity of an inactivated SARS-CoV-2 vaccine in Chinese adults
+                            aged 18&#x2013;59 years: a phase I randomized, double-blinded,
+                            controlled trial. Vaccine 2021;39(20):2746-54.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8040531</ArticleId>
+                            <ArticleId IdType="pubmed">33875266</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Qiao 2020</Title>
+                    <Reference>
+                        <Citation>Qiao J. What are the risks of COVID-19 infection in pregnant
+                            women? Lancet 2020;395(10226):760-2.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC7158939</ArticleId>
+                            <ArticleId IdType="pubmed">32151334</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Ramasamy 2020</Title>
+                    <Reference>
+                        <Citation>Ramasamy MN, Minassian AM, Ewer KJ, Flaxman AL, Folegatti PM,
+                            Owens DR, et al. Safety and immunogenicity of ChAdOx1 nCoV-19 vaccine
+                            administered in a prime-boost regimen in young and old adults (COV002):
+                            a single-blind, randomized, controlled, phase 2/3 trial. Lancet
+                            2020;396(10267):1979-93.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC7674972</ArticleId>
+                            <ArticleId IdType="pubmed">33220855</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Richmond 2021</Title>
+                    <Reference>
+                        <Citation>Richmond P, Hatchuel L, Dong M, Ma B, Hu B, Smolenov I, et al.
+                            Safety and immunogenicity of S-Trimer (SCB-2019), a protein subunit
+                            vaccine candidate for COVID-19 in healthy adults: a phase 1, randomized,
+                            double-blind, placebo-controlled trial. Lancet 2021;397(10275):682-94.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC7906655</ArticleId>
+                            <ArticleId IdType="pubmed">33524311</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Riley 2011</Title>
+                    <Reference>
+                        <Citation>Riley RD, Higgins JP, Deeks JJ. Interpretation of random effects
+                            meta-analyses. BMJ 2011;342:d549.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pubmed">21310794</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Rizk 2021</Title>
+                    <Reference>
+                        <Citation>Rizk JG, Gupta A, Sardar P, Henry BM, Lewin JC, Lippi G, et al.
+                            Clinical characteristics and pharmacological management of COVID-19
+                            vaccine-induced immune thrombotic thrombocytopenia with cerebral venous
+                            sinus thrombosis: a review. JAMA Cardiology 2021;6(12):1451-60.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pubmed">34374713</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Roozen 2021</Title>
+                    <Reference>
+                        <Citation>Roozen GV, Prins ML, Binnendijk R, den Hartog G, Kuiper VP, Prins
+                            C, et al. Tolerability, safety and immunogenicity of intradermal
+                            delivery of a fractional dose mRNA-1273 SARS-CoV-2 vaccine in healthy
+                            adults as a dose sparing strategy. medRxiv 2021 [Preprint]. [DOI:
+                            10.1101/2021.07.27.21261116]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.1101/2021.07.27.21261116</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Roper 2009</Title>
+                    <Reference>
+                        <Citation>Roper RL, Rehm KE. SARS vaccines: where are we? Expert Review of
+                            Vaccines 2009;8(7):887-98.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC7105754</ArticleId>
+                            <ArticleId IdType="pubmed">19538115</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Rotshild 2021</Title>
+                    <Reference>
+                        <Citation>Rotshild V, Hirsh-Raccah B, Miskin I, Muszkat M, Matok I.
+                            Comparing the clinical efficacy of COVID-19 vaccines: a systematic
+                            review and network meta-analysis. Scientific Reports 2021;11(1):22777.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8611039</ArticleId>
+                            <ArticleId IdType="pubmed">34815503</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Rubin 2013</Title>
+                    <Reference>
+                        <Citation>Rubin LG, Levin MJ, Ljungman P, Davies EG, Avery R, Tomblyn M, et
+                            al. 2013 IDSA clinical practice guideline for vaccination of the
+                            immunocompromized host. Clinical Infectious Diseases
+                            2013;58(3):e44-e100.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pubmed">24311479</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Rucker 2013</Title>
+                    <Reference>
+                        <Citation>Rucker G, Schwarzer G, R&#xfc;cker G, Schwarzer G, Krahn U,
+                            K&#xf6;nig J. Network meta-analysis using frequentist methods &#x2013;
+                            package netmeta. cran.r&#x2013;project.org (accessed prior to 1 November
+                            2022).</Citation>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Ryzhikov 2021</Title>
+                    <Reference>
+                        <Citation>Ryzhikov AB, Ryzhikov &#x415;&#x410;, Bogryantseva MP, Usova SV,
+                            Danilenko ED, Nechaeva EA, et al. A single blind, placebo-controlled
+                            randomized study of the safety, reactogenicity and immunogenicity of the
+                            "EpiVacCorona" vaccine for the prevention of COVID-19. Russian Journal
+                            of Infection and Immunity 2021;11(2):283-96.</Citation>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Sadoff 2020c</Title>
+                    <Reference>
+                        <Citation>Sadoff J, Le Gars M, Shukarev G, Heerwegh D, Truyers C, Groot AM,
+                            et al. Safety and immunogenicity of the Ad26. COV2. S COVID-19 vaccine
+                            candidate: interim results of a phase 1/2a, double-blind, randomized,
+                            placebo-controlled trial. MedRxiv 2020 [Preprint].</Citation>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Salanti 2011</Title>
+                    <Reference>
+                        <Citation>Salanti G, Ades AE, Ioannidis JP. Graphical methods and numerical
+                            summaries for presenting results from multiple-treatment meta-analysis:
+                            an overview and tutorial. Journal of Clinical Epidemiology
+                            2011;64(2):163-7.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pubmed">20688472</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Sch&#xfc;nemann 2021</Title>
+                    <Reference>
+                        <Citation>Sch&#xfc;nemann HJ, Higgins JP, Vist GE, Glasziou P, Akl EA,
+                            Skoetz N, et al. Chapter 14: Completing 'Summary of findings' tables and
+                            grading the certainty of the evidence. In: Higgins JP, Thomas J,
+                            Chandler J, Cumpston M, Li T, Page MJ, Welch VA, editor(s). Cochrane
+                            Handbook for Systematic Reviews of Interventions Version 6.2 (updated
+                            February 2021). Cochrane, 2021. Available from
+                            training.cochrane.org/handbook/archive/v6.2.</Citation>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Sharifian&#x2010;Dorche 2021</Title>
+                    <Reference>
+                        <Citation>Sharifian-Dorche M, Bahmanyar M, Sharifian-Dorche A, Mohammadi P,
+                            Nomovi M, Mowla A. Vaccine-induced immune thrombotic thrombocytopenia
+                            and cerebral venous sinus thrombosis post COVID-19 vaccination; a
+                            systematic review. Journal of the Neurological Sciences 2021;428:117607.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8330139</ArticleId>
+                            <ArticleId IdType="pubmed">34365148</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Shinde 2021</Title>
+                    <Reference>
+                        <Citation>Shinde V, Bhikha S, Hoosain Z, Archary M, Bhorat Q, Fairlie L, et
+                            al, for the 2019nCoV-501 Study Group. Preliminary efficacy of the
+                            NVX-CoV2373 Covid-19 vaccine against the B.1.351 variant. medRxiv 2021
+                            [Preprint].</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8091623</ArticleId>
+                            <ArticleId IdType="pubmed">33951374</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Shu 2021</Title>
+                    <Reference>
+                        <Citation>Shu YJ, He JF, Pei RJ, He P, Huang ZH, Chen SM, et al.
+                            Immunogenicity and safety of a recombinant fusion protein vaccine (V-01)
+                            against coronavirus disease 2019 in healthy adults: a randomized,
+                            double-blind, placebo-controlled, phase II trial. Chinese Medical
+                            Journal 2021;134(16):1967-76.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8382383</ArticleId>
+                            <ArticleId IdType="pubmed">34310400</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Sridhar 2021</Title>
+                    <Reference>
+                        <Citation>Sridhar S, Joaquin A, Bonaparte MI, Bueso A, Chabanon AL, Chen A,
+                            et al. Safety and immunogenicity of a SARS-CoV-2 recombinant protein
+                            vaccine with AS03 adjuvant in healthy adults: interim findings from a
+                            phase 2, randomised, dose-finding, multi-centre study. medRxiv 2021
+                            [Preprint]. [DOI: 10.1101/2021.10.08.21264302]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.1101/2021.10.08.21264302</ArticleId>
+                            <ArticleId IdType="pmc">PMC8789245</ArticleId>
+                            <ArticleId IdType="pubmed">35090638</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Stephenson 2021</Title>
+                    <Reference>
+                        <Citation>Stephenson KE, Le Gars M, Sadoff J, Groot AM, Heerwegh D, Truyers
+                            C, et al. Immunogenicity of the Ad26.COV2.S vaccine for COVID-19. JAMA
+                            2021;325(15):1535-44.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC7953339</ArticleId>
+                            <ArticleId IdType="pubmed">33704352</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Sterne 2019</Title>
+                    <Reference>
+                        <Citation>Sterne JA, Savovi&#x107; J, Page MJ, Elbers RG, Blencowe NS,
+                            Boutron I, et al. RoB 2: a revised tool for assessing risk of bias in
+                            randomized trials. BMJ 2019;366:l4898.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pubmed">31462531</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Thomas 2021</Title>
+                    <Reference>
+                        <Citation>Thomas SJ, Moreira ED, Kitchin N, Absalon J, Gurtman A, Lockhart
+                            S, et al. Six month safety and efficacy of the BNT162b2 Mrna Covid-19
+                            vaccine. medRxiv 2021 [Preprint].</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8461570</ArticleId>
+                            <ArticleId IdType="pubmed">34525277</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Turner 2012</Title>
+                    <Reference>
+                        <Citation>Turner RM, Davey J, Clarke MJ, Thompson SG, Higgins JP. Predicting
+                            the extent of heterogeneity in meta-analysis, using empirical data from
+                            the Cochrane Database of Systematic Reviews. International Journal of
+                            Epidemiology 2012;41(3):818-27.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC3396310</ArticleId>
+                            <ArticleId IdType="pubmed">22461129</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>van Riel 2020</Title>
+                    <Reference>
+                        <Citation>Riel D, Wit E. Next-generation vaccine platforms for COVID-19.
+                            Nature Materials 2020;19(8):810-2.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pubmed">32704139</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Viechtbauer 2010</Title>
+                    <Reference>
+                        <Citation>Viechtbauer W. Conducting meta-analyses in R with the metafor
+                            package. Journal of Statistical Software 2010;36(3):1-48.</Citation>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Voysey 2021b</Title>
+                    <Reference>
+                        <Citation>Voysey M, Costa Clemens SA, Madhi SA, Weckx LY, Folegatti PM, Aley
+                            PK, et al. Single-dose administration and the influence of the timing of
+                            the booster dose on immunogenicity and efficacy of ChAdOx1 nCoV-19
+                            (AZD1222) vaccine: a pooled analysis of four randomized trials. Lancet
+                            2021;397(10277):881-91.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC7894131</ArticleId>
+                            <ArticleId IdType="pubmed">33617777</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Walsh 2021</Title>
+                    <Reference>
+                        <Citation>Walsh EE, Frenck R, Falsey AR, Kitchin N, Absalon J, Gurtman A, et
+                            al. RNA-based COVID-19 vaccine BNT162b2 selected for a pivotal efficacy
+                            study. medRxiv 2021 [Preprint].</Citation>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Ward 2021b</Title>
+                    <Reference>
+                        <Citation>Ward BJ, Gobeil P, S&#xe9;guin A, Atkins J, Boulay I, Charbonneau
+                            PY, et al. Phase 1 randomized trial of a plant-derived virus-like
+                            particle vaccine for COVID-19. Nature Medicine 2021;27(6):1071-8.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8205852</ArticleId>
+                            <ArticleId IdType="pubmed">34007070</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>White 2008</Title>
+                    <Reference>
+                        <Citation>White IR, Higgins JP, Wood AM. Allowing for uncertainty due to
+                            missing data in meta-analysis &#x2013; part 1: two-stage methods.
+                            Statistics in Medicine 2008;27(5):711-27.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pubmed">17703496</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>WHO 2020a</Title>
+                    <Reference>
+                        <Citation>World Health Organization. Coronavirus disease 2019 (COVID-19).
+                            Situation report &#x2013; 51. apps.who.int/iris/handle/10665/331475
+                            (accessed prior to 1 November 2022).</Citation>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>WHO 2020b</Title>
+                    <Reference>
+                        <Citation>World Health Organization. Considerations for evaluation of
+                            COVID19 vaccines. Points to consider for manufacturers of COVID-19
+                            vaccines. Version 24 September 2020.
+                            www.who.int/docs/default-source/in-vitro-diagnostics/covid19/who-evaluation-covid-vaccine-w-lines.pdf?sfvrsn=701d3a65_2
+                            (accessed prior to 1 November 2022).</Citation>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>WHO 2020c</Title>
+                    <Reference>
+                        <Citation>World Health Organization. WHO target product profiles for
+                            COVID-19 vaccines. Version 3 &#x2013; 29 April 2020.
+                            www.who.int/docs/default-source/blue-print/who-target-product-profiles-for-covid-19-vaccines.pdf
+                            (accessed prior to 1 November 2022).</Citation>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>WHO 2022a</Title>
+                    <Reference>
+                        <Citation>World Health Organization. Tracking SARS-CoV-2 variants.
+                            www.who.int/activities/tracking-SARS-CoV-2-variants (accessed prior to 1
+                            November 2022).</Citation>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>WHO 2022b</Title>
+                    <Reference>
+                        <Citation>World Health Organization. COVID-19 vaccine tracker and landscape.
+                            www.who.int/publications/m/item/draft-landscape-of-covid-19-candidate-vaccines
+                            (accessed prior to 1 November 2022).</Citation>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>WHO Ad Hoc Expert Group 2021</Title>
+                    <Reference>
+                        <Citation>WHO Ad Hoc Expert Group on the Next Steps for Covid-19 Vaccine
+                            Evaluation. Placebo-controlled trials of covid-19 vaccines &#x2013; why
+                            we still need them. New England Journal of Medicine 2021;384:e2. [DOI:
+                            10.1056/NEJMp2033538]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.1056/NEJMp2033538</ArticleId>
+                            <ArticleId IdType="pubmed">33264543</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Worldometer 2022</Title>
+                    <Reference>
+                        <Citation>Worldometer. COVID-19 coronavirus pandemic.
+                            www.worldometers.info/coronavirus/#countries (accessed prior to 1
+                            November 2022).</Citation>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Wu 2021c</Title>
+                    <Reference>
+                        <Citation>Wu S, Huang J, Zhang Z, Wu J, Zhang J, Hu H, et al. Safety,
+                            tolerability, and immunogenicity of an aerosolised adenovirus type-5
+                            vector-based COVID-19 vaccine (Ad5-nCoV) in adults: preliminary report
+                            of an open-label and randomised phase 1 clinical trial. Lancet
+                            Infectious Diseases 2021;21(12):1654-64.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8313090</ArticleId>
+                            <ArticleId IdType="pubmed">34324836</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Xia 2020</Title>
+                    <Reference>
+                        <Citation>Xia S, Duan K, Zhang Y, Zhao D, Zhang H, Xie Z, et al. Effect of
+                            an inactivated vaccine against SARS-CoV-2 on safety and immunogenicity
+                            outcomes: interim analysis of 2 randomized clinical trials. JAMA
+                            2020;324(10):951-60.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC7426884</ArticleId>
+                            <ArticleId IdType="pubmed">32789505</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Yang 2021</Title>
+                    <Reference>
+                        <Citation>Yang S, Li Y, Dai L, Wang J, He P, Li C, et al. Safety and
+                            immunogenicity of a recombinant tandem-repeat dimeric RBD-based protein
+                            subunit vaccine (ZF2001) against COVID-19 in adults: two randomized,
+                            double-blind, placebo-controlled, phase 1 and 2 trials. Lancet
+                            Infectious Diseases 2021;21(8):1107-19.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC7990482</ArticleId>
+                            <ArticleId IdType="pubmed">33773111</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Yepes&#x2010;Nu&#xf1;ez 2019</Title>
+                    <Reference>
+                        <Citation>Yepes-Nu&#xf1;ez JJ, Li SA, Guyatt G, Jack SM, Brozek JL, Beyene
+                            J, et al. Development of the summary of findings table for network
+                            meta-analysis. Journal of Clinical Epidemiology 2019;115:1-13.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pubmed">31055177</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Zakarya 2021</Title>
+                    <Reference>
+                        <Citation>Zakarya K, Kutumbetov L, Orynbayev M, Abduraimov Y, Sultankulova
+                            K, Kassenov M, et al. A single-centre, randomized, single-blind,
+                            placebo-controlled phase 1 and an open-label phase 2 clinical trials
+                            with a 6 months follow-up in Kazakhstan. EClinicalMedicine
+                            2021;39:101078.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8363482</ArticleId>
+                            <ArticleId IdType="pubmed">34414368</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Zeng 2021a</Title>
+                    <Reference>
+                        <Citation>Zeng L, Brignardello-Petersen R, Hultcrantz M, Siemieniuk RA,
+                            Santesso N, Traversy G, et al. GRADE guidelines 32: GRADE offers
+                            guidance on choosing targets of GRADE certainty of evidence ratings.
+                            Journal of Clinical Epidemiology 2021;137:163-75.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pubmed">33857619</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Zeng 2021b</Title>
+                    <Reference>
+                        <Citation>Zeng B, Gao L, Zhou Q, Yu K, Sun F. Effectiveness of COVID-19
+                            vaccines against SARS-CoV-2 variants of concern: a systematic review and
+                            meta-analysis. medRxiv 2021 [Preprint]. [DOI:
+                            10.1101/2021.09.23.21264048]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.1101/2021.09.23.21264048</ArticleId>
+                            <ArticleId IdType="pmc">PMC9126103</ArticleId>
+                            <ArticleId IdType="pubmed">35606843</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Zhang 2021b</Title>
+                    <Reference>
+                        <Citation>Zhang J, Hu Z, He J, Liao Y, Li Y, Pei R, et al. Safety and
+                            immunogenicity of a recombinant interferon-armed RBD dimer vaccine
+                            (V-01) for COVID-19 in healthy adults: a randomized, double-blind,
+                            placebo-controlled, Phase I trial. Emerging Microbes &amp; Infections
+                            2021;10(1):1589-97.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8366678</ArticleId>
+                            <ArticleId IdType="pubmed">34197281</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Zhu 2020</Title>
+                    <Reference>
+                        <Citation>Zhu FC, Guan XH, Li YH, Huang JY, Jiang T, Hou LH, et al.
+                            Immunogenicity and safety of a recombinant adenovirus type-5-vectored
+                            COVID-19 vaccine in healthy adults aged 18 years or older: a randomized,
+                            double-blind, placebo-controlled, phase 2 trial. Lancet
+                            2020;396(10249):479-88.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC7836858</ArticleId>
+                            <ArticleId IdType="pubmed">32702299</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Zhu 2021a</Title>
+                    <Reference>
+                        <Citation>Zhu F, Jin P, Zhu T, Wang W, Ye H, Pan H, et al. Safety and
+                            immunogenicity of a recombinant adenovirus type-5-vectored COVID-19
+                            vaccine with a homologous prime-boost regimen in healthy participants
+                            aged 6 years and above: a randomized, double-blind, placebo-controlled,
+                            phase 2b trial. Clinical Infectious Diseases 2022;75(1):e783-91. [DOI:
+                            10.1093/cid/ciab845]</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="doi">10.1093/cid/ciab845</ArticleId>
+                            <ArticleId IdType="pmc">PMC8522421</ArticleId>
+                            <ArticleId IdType="pubmed">34551104</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+                <ReferenceList>
+                    <Title>Zhu 2022</Title>
+                    <Reference>
+                        <Citation>Zhu F, Jin P, Zhu T, Wang W, Ye H, Pan H, et al. Safety and
+                            immunogenicity of a recombinant adenovirus type-5-vectored COVID-19
+                            vaccine with a homologous prime-boost regimen in healthy participants
+                            aged 6 years and above: a randomized, double-blind, placebo-controlled,
+                            phase 2b trial. Clinical Infectious Diseases 2022;75(1):e783-91.</Citation>
+                        <ArticleIdList>
+                            <ArticleId IdType="pmc">PMC8522421</ArticleId>
+                            <ArticleId IdType="pubmed">34551104</ArticleId>
+                        </ArticleIdList>
+                    </Reference>
+                </ReferenceList>
+            </ReferenceList>
+            <ReferenceList>
+                <Title>References to other published versions of this review</Title>
+                <ReferenceList>
+                    <Title>Grana 2021</Title>
+                    <Reference>
+                        <Citation>Grana C, Ghosn L, Boutron I. Efficacy and safety of COVID-19
+                            vaccines: a systematic review and meta-analysis. PROSPERO 2021
+                            CRD42021271897.
+                            www.crd.york.ac.uk/prospero/display_record.php?RecordID=271897 (accessed
+                            prior to 1 November 2022).</Citation>
+                    </Reference>
+                </ReferenceList>
+            </ReferenceList>
+        </PubmedData>
+    </PubmedArticle>
+</PubmedArticleSet>

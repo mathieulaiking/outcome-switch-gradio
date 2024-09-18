@@ -1,0 +1,11 @@
+{
+    "ner_path": "aakorolyova/primary_and_secondary_outcome_extraction",
+    "sim_path": "laiking/all-mpnet-outcome-similarity",
+    "ner_label2id" : {
+        "O": 0,
+        "B-PrimaryOutcome": 1,
+        "I-PrimaryOutcome": 2,
+        "B-SecondaryOutcome": 3,
+        "I-SecondaryOutcome": 4
+    }
+}
